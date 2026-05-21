@@ -1,0 +1,21 @@
+filename,locality_canonical,locality_aliases,sentence_expected,condition,language
+01_koramangala_quiet_hinglish.m4a,Koramangala,"koramangla;koramangaala;koramangalam","Haan bhaiya, main Koramangala mein rehta hoon, 5th block.",quiet,hinglish
+02_indiranagar_quiet_hindi.m4a,Indiranagar,"indranagar;indiranagara;indra nagar","Mera ghar Indiranagar mein hai, metro station ke paas.",quiet,hindi
+03_hsrlayout_quiet_english.m4a,HSR Layout,"hsr;hsr layout;h s r layout;hsrlayout","Yes sir, I stay in HSR Layout, sector 2.",quiet,english
+04_hebbal_quiet_hinglish.m4a,Hebbal,"hebal;hebbala;hebbel","Job ke liye Hebbal se aana padega, traffic kaisa hai?",quiet,hinglish
+05_byatarayanapura_quiet_hindi.m4a,Byatarayanapura,"byatarayanpur;byatarayanapur;byatarayanapuram;biatarayanpura","Sir, mera address Byatarayanapura hai, paas mein bus stand hai.",quiet,hindi
+06_whitefield_traffic_english.m4a,Whitefield,"white field;whitfield","I work in Whitefield, near the ITPL main road.",traffic,english
+07_marathahalli_traffic_hinglish.m4a,Marathahalli,"marathalli;marathahally;marathhalli","Haan, Marathahalli bridge ke neeche utar jaana, wahan se auto mil jaayega.",traffic,hinglish
+08_electroniccity_traffic_hindi.m4a,Electronic City,"electronic city;electronics city;e city;ecity","Main Electronic City phase 1 mein rehta hoon, Infosys ke peeche.",traffic,hindi
+09_silkboard_traffic_hinglish.m4a,Silk Board,"silkboard;silk-board","Silk Board signal pe phasa hua hoon yaar, 20 minute se.",traffic,hinglish
+10_kadugondanahalli_traffic_hindi.m4a,Kadugondanahalli,"kadugondanhalli;kadugondanahally;kg halli;kgh","Mera area ka naam Kadugondanahalli hai, KG Halli bolte hain log.",traffic,hindi
+11_jayanagar_phone_hinglish.m4a,Jayanagar,"jaynagar;jaya nagar;jayanagara","Sir mera naam Ravi hai, main Jayanagar 4th block se baat kar raha hoon.",phone,hinglish
+12_btmlayout_phone_hindi.m4a,BTM Layout,"btm;b t m layout;btm-layout","BTM Layout mein flat dekhna hai, kya aap free ho kal?",phone,hindi
+13_krpuram_phone_hinglish.m4a,KR Puram,"kr-puram;k r puram;krpuram;k.r. puram","Haan haan, KR Puram railway station ke paas, wahan ruko.",phone,hinglish
+14_bellandur_phone_english.m4a,Bellandur,"belandur;bellanduru;belandoor","I'm currently in Bellandur, can the delivery come here by 6?",phone,english
+15_hesaraghatta_phone_hindi.m4a,Hesaraghatta,"hesarghatta;heseraghatta;hesaraghata","Madam, main Hesaraghatta se hoon, gaon ki taraf.",phone,hindi
+16_yelahanka_whisper_kannada.m4a,Yelahanka,"yelhanka;yelahanka;elahanka","Naanu Yelahankadalli iddeene, airport hattira.",whisper,kannada
+17_banashankari_rushed_hinglish.m4a,Banashankari,"banshankari;banashankri;banashankara","Yaar jaldi bata, Banashankari se Majestic kitne kilometre hai?",rushed,hinglish
+18_majestic_whisper_hindi.m4a,Majestic,"majestik;magestic","Majestic bus stand ke andar khada hoon, mil jaaoge?",whisper,hindi
+19_rajarajeshwarinagar_rushed_hindi.m4a,Rajarajeshwarinagar,"rajarajeshwari nagar;raja rajeshwari nagar;rrnagar;rr nagar","Rajarajeshwarinagar mein interview hai, address bhej raha hoon abhi.",rushed,hindi
+20_thalaghattapura_whisper_kannada.m4a,Thalaghattapura,"talaghattapura;thalghattapura;talghattapura","Thalaghattapura side, NICE road ke paas, samjha?",whisper,kannada

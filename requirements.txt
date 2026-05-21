@@ -1,0 +1,31 @@
+# --- ASR clients ---
+deepgram-sdk>=3.7.0
+openai-whisper
+elevenlabs>=1.0.0
+# Sarvam doesn't have an official PyPI SDK; we use REST via `requests`.
+
+# --- Metrics ---
+jiwer>=3.0.0
+python-Levenshtein>=0.23.0
+metaphone>=0.6
+rapidfuzz>=3.0.0
+
+# --- Audio ---
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.0
+
+# --- Data / utils ---
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.66.0
+
+# --- Visualization ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Optional: open-source dataset loading ---
+datasets>=2.14.0
+huggingface_hub>=0.20.0
