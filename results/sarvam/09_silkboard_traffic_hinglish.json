@@ -1,0 +1,15 @@
+{
+  "clip_id": "09_silkboard_traffic_hinglish",
+  "filename": "09_silkboard_traffic_hinglish.m4a",
+  "model": "sarvam",
+  "transcript": "सिल्क वो सिग्नल पे फंसा हूं यार, 20 मिनट से।",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1413.357300683856,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_48cd3aa0-ee41-4598-8c45-ed2bb5d3c444",
+    "transcript": "सिल्क वो सिग्नल पे फंसा हूं यार, 20 मिनट से।",
+    "language_code": "hi-IN"
+  }
+}

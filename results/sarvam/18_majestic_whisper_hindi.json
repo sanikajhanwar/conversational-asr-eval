@@ -1,0 +1,15 @@
+{
+  "clip_id": "18_majestic_whisper_hindi",
+  "filename": "18_majestic_whisper_hindi.m4a",
+  "model": "sarvam",
+  "transcript": "मैजेस्टिक बस के अंदर खड़ा हूँ मिल जाओगे",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1194.215800613165,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_64f16726-882f-45ba-ba1f-4c9b6e3778b7",
+    "transcript": "मैजेस्टिक बस के अंदर खड़ा हूँ मिल जाओगे",
+    "language_code": "hi-IN"
+  }
+}

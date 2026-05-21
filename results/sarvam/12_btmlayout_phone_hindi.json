@@ -1,0 +1,15 @@
+{
+  "clip_id": "12_btmlayout_phone_hindi",
+  "filename": "12_btmlayout_phone_hindi.m4a",
+  "model": "sarvam",
+  "transcript": "बी टी एम लेआउट में फ्लैट देखना है क्या आप फ्री हैं",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1137.6817002892494,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_3bf1fdbb-0e01-450b-8d1e-6fcf60f34acd",
+    "transcript": "बी टी एम लेआउट में फ्लैट देखना है क्या आप फ्री हैं",
+    "language_code": "hi-IN"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clip_id": "11_jayanagar_phone_hinglish",
+  "filename": "11_jayanagar_phone_hinglish.m4a",
+  "model": "sarvam",
+  "transcript": "सर मेरा नाम सानका है जयनगर फोर्थ ब्लॉक से बात कर रही हूँ",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1152.3152999579906,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_d8d0a970-9703-4cd0-9ccc-f12fdd1c2075",
+    "transcript": "सर मेरा नाम सानका है जयनगर फोर्थ ब्लॉक से बात कर रही हूँ",
+    "language_code": "hi-IN"
+  }
+}

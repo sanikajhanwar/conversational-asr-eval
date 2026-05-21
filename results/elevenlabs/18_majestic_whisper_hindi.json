@@ -1,0 +1,157 @@
+{
+  "clip_id": "18_majestic_whisper_hindi",
+  "filename": "18_majestic_whisper_hindi.m4a",
+  "model": "elevenlabs",
+  "transcript": "ਮੈਜੇਸਟਿਕ 10 ਕੇ ਅੰਦਰ ਖੜਾ ਹੋ ਮਿਲ ਜਾਓਗੇ।",
+  "language_detected": "pan",
+  "latency_total_ms": 1939.3966002389789,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "pan",
+    "language_probability": 0.9997561573982239,
+    "text": "ਮੈਜੇਸਟਿਕ 10 ਕੇ ਅੰਦਰ ਖੜਾ ਹੋ ਮਿਲ ਜਾਓਗੇ।",
+    "words": [
+      {
+        "text": "ਮੈਜੇਸਟਿਕ",
+        "start": 1.0,
+        "end": 1.719,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.05772699999943143,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.719,
+        "end": 1.759,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.7459972500801086,
+        "characters": null
+      },
+      {
+        "text": "10",
+        "start": 1.759,
+        "end": 2.099,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.012593860737979412,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.099,
+        "end": 2.139,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00933980755507946,
+        "characters": null
+      },
+      {
+        "text": "ਕੇ",
+        "start": 2.139,
+        "end": 2.299,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.015511636724113487,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.299,
+        "end": 2.359,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0013438966125249863,
+        "characters": null
+      },
+      {
+        "text": "ਅੰਦਰ",
+        "start": 2.359,
+        "end": 2.639,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -8.612231977167539e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.639,
+        "end": 2.779,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0006170752458274364,
+        "characters": null
+      },
+      {
+        "text": "ਖੜਾ",
+        "start": 2.779,
+        "end": 3.019,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.2350130646567171,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.019,
+        "end": 3.079,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.006189108360558748,
+        "characters": null
+      },
+      {
+        "text": "ਹੋ",
+        "start": 3.079,
+        "end": 3.319,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.015156993744312786,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.319,
+        "end": 3.359,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.14169549942016602,
+        "characters": null
+      },
+      {
+        "text": "ਮਿਲ",
+        "start": 3.359,
+        "end": 3.459,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0014079289928001042,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.459,
+        "end": 3.559,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.002864545676857233,
+        "characters": null
+      },
+      {
+        "text": "ਜਾਓਗੇ।",
+        "start": 3.559,
+        "end": 4.84,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00907521162116609,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "uFSCynVG91nQ4pRcoMrq",
+    "entities": null,
+    "audio_duration_secs": 4.9066875
+  }
+}

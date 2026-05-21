@@ -1,0 +1,15 @@
+{
+  "clip_id": "07_marathahalli_traffic_hinglish",
+  "filename": "07_marathahalli_traffic_hinglish.m4a",
+  "model": "sarvam",
+  "transcript": "हाँ, माराथली ब्रिज के नीचे उतर जाना, वहाँ से ऑटो मिल जाएगा।",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1292.5503002479672,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_2e455aa9-7464-4c3c-b8a1-7cb672755abb",
+    "transcript": "हाँ, माराथली ब्रिज के नीचे उतर जाना, वहाँ से ऑटो मिल जाएगा।",
+    "language_code": "hi-IN"
+  }
+}

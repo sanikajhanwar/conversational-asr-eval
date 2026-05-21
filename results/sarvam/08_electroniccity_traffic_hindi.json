@@ -1,0 +1,15 @@
+{
+  "clip_id": "08_electroniccity_traffic_hindi",
+  "filename": "08_electroniccity_traffic_hindi.m4a",
+  "model": "sarvam",
+  "transcript": "मैं इलेक्ट्रॉनिक सिटी फ़ेज़ वन में रहती हूँ इंफोसिस के पीछे।",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1241.6409999132156,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_942ed058-826b-4ecb-b609-f92614a4ebea",
+    "transcript": "मैं इलेक्ट्रॉनिक सिटी फ़ेज़ वन में रहती हूँ इंफोसिस के पीछे।",
+    "language_code": "hi-IN"
+  }
+}

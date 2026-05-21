@@ -1,0 +1,193 @@
+{
+  "clip_id": "13_krpuram_phone_hinglish",
+  "filename": "13_krpuram_phone_hinglish.m4a",
+  "model": "elevenlabs",
+  "transcript": "हां हां, केआर पुरम रेलवे स्टेशन के पास वहां रुको।",
+  "language_detected": "hin",
+  "latency_total_ms": 1312.6525999978185,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "hin",
+    "language_probability": 0.9399173855781555,
+    "text": "हां हां, केआर पुरम रेलवे स्टेशन के पास वहां रुको।",
+    "words": [
+      {
+        "text": "हां",
+        "start": 1.0,
+        "end": 1.139,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.2523125658432643,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.139,
+        "end": 1.179,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.502623200416565,
+        "characters": null
+      },
+      {
+        "text": "हां,",
+        "start": 1.179,
+        "end": 1.419,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.3814292292227037,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.419,
+        "end": 1.679,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0014861501986160874,
+        "characters": null
+      },
+      {
+        "text": "केआर",
+        "start": 1.679,
+        "end": 1.979,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.04340736963786185,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.979,
+        "end": 2.039,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.6139720678329468,
+        "characters": null
+      },
+      {
+        "text": "पुरम",
+        "start": 2.039,
+        "end": 2.279,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.1825504656544581,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.279,
+        "end": 2.319,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0002754547167569399,
+        "characters": null
+      },
+      {
+        "text": "रेलवे",
+        "start": 2.319,
+        "end": 2.519,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -7.931364234536886e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.519,
+        "end": 2.579,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -2.5152843591058627e-05,
+        "characters": null
+      },
+      {
+        "text": "स्टेशन",
+        "start": 2.579,
+        "end": 2.879,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -6.0218494278766833e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.879,
+        "end": 2.959,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0002146728802472353,
+        "characters": null
+      },
+      {
+        "text": "के",
+        "start": 2.96,
+        "end": 3.059,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00011115112283732742,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.059,
+        "end": 3.099,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -6.556489552167477e-06,
+        "characters": null
+      },
+      {
+        "text": "पास",
+        "start": 3.099,
+        "end": 3.359,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -3.6954791842921018e-06,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.359,
+        "end": 3.399,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.9559406042098999,
+        "characters": null
+      },
+      {
+        "text": "वहां",
+        "start": 3.399,
+        "end": 3.579,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.48838657047599554,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.579,
+        "end": 3.639,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0014838885981589556,
+        "characters": null
+      },
+      {
+        "text": "रुको।",
+        "start": 3.639,
+        "end": 4.84,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00392437931150198,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "t8Vco1vp4bSPNOyf0w1v",
+    "entities": null,
+    "audio_duration_secs": 5.376
+  }
+}

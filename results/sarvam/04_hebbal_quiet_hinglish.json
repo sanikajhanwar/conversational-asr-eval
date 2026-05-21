@@ -1,0 +1,15 @@
+{
+  "clip_id": "04_hebbal_quiet_hinglish",
+  "filename": "04_hebbal_quiet_hinglish.m4a",
+  "model": "sarvam",
+  "transcript": "जॉब के लिए हिबाल से आना पड़ेगा ट्रैफ़िक कैसा है",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1184.014500118792,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_db7e0435-8e23-41c8-b595-2efba14fe7a1",
+    "transcript": "जॉब के लिए हिबाल से आना पड़ेगा ट्रैफ़िक कैसा है",
+    "language_code": "hi-IN"
+  }
+}

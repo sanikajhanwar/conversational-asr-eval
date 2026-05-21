@@ -1,0 +1,193 @@
+{
+  "clip_id": "09_silkboard_traffic_hinglish",
+  "filename": "09_silkboard_traffic_hinglish.m4a",
+  "model": "elevenlabs",
+  "transcript": "सेल्क ब्रोड, सिग्नल पे फंसा हूं यार ट्वेंटी मिनट्स से।",
+  "language_detected": "hin",
+  "latency_total_ms": 2256.0697002336383,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "hin",
+    "language_probability": 0.927890419960022,
+    "text": "सेल्क ब्रोड, सिग्नल पे फंसा हूं यार ट्वेंटी मिनट्स से।",
+    "words": [
+      {
+        "text": "सेल्क",
+        "start": 3.099,
+        "end": 3.279,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.5128262612968684,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.279,
+        "end": 3.379,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.2557959258556366,
+        "characters": null
+      },
+      {
+        "text": "ब्रोड,",
+        "start": 3.379,
+        "end": 3.679,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.541042352716128,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.679,
+        "end": 3.799,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -5.245071224635467e-05,
+        "characters": null
+      },
+      {
+        "text": "सिग्नल",
+        "start": 3.799,
+        "end": 4.139,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.002154557096522088,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.139,
+        "end": 4.219,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.008237907662987709,
+        "characters": null
+      },
+      {
+        "text": "पे",
+        "start": 4.219,
+        "end": 4.319,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.004138563375818194,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.319,
+        "end": 4.359,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0002225389762315899,
+        "characters": null
+      },
+      {
+        "text": "फंसा",
+        "start": 4.36,
+        "end": 4.599,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.03397669576224871,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.599,
+        "end": 4.679,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -2.8013790142722428e-05,
+        "characters": null
+      },
+      {
+        "text": "हूं",
+        "start": 4.679,
+        "end": 4.779,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.03399534758743054,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.779,
+        "end": 4.859,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00027581225731410086,
+        "characters": null
+      },
+      {
+        "text": "यार",
+        "start": 4.859,
+        "end": 5.119,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00010210986753615241,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.119,
+        "end": 5.299,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.16672556102275848,
+        "characters": null
+      },
+      {
+        "text": "ट्वेंटी",
+        "start": 5.299,
+        "end": 5.599,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.05238996962101997,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.599,
+        "end": 5.679,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -3.1709168979432434e-05,
+        "characters": null
+      },
+      {
+        "text": "मिनट्स",
+        "start": 5.679,
+        "end": 5.96,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.027974134848288184,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.96,
+        "end": 6.0,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -3.0397906812140718e-05,
+        "characters": null
+      },
+      {
+        "text": "से।",
+        "start": 6.0,
+        "end": 7.359,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00665933871763021,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "HNmkBD5EB2XF4ETE93of",
+    "entities": null,
+    "audio_duration_secs": 8.5333125
+  }
+}

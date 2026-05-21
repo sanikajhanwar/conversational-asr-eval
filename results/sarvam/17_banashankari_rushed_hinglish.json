@@ -1,0 +1,15 @@
+{
+  "clip_id": "17_banashankari_rushed_hinglish",
+  "filename": "17_banashankari_rushed_hinglish.m4a",
+  "model": "sarvam",
+  "transcript": "यार जल्दी बता बना शांखरी से मैजेस्टिक कितना किलोमीटर है",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1194.8033003136516,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_671c7b13-4e32-4738-b6f0-32b4afdff981",
+    "transcript": "यार जल्दी बता बना शांखरी से मैजेस्टिक कितना किलोमीटर है",
+    "language_code": "hi-IN"
+  }
+}

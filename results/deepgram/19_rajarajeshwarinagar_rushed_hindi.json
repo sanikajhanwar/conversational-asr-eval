@@ -1,0 +1,157 @@
+{
+  "clip_id": "19_rajarajeshwarinagar_rushed_hindi",
+  "filename": "19_rajarajeshwarinagar_rushed_hindi.m4a",
+  "model": "deepgram",
+  "transcript": "राजा राजेश्वरी नगर में interview है. Address भेज रहा हूँ अभी.",
+  "language_detected": null,
+  "latency_total_ms": 2268.5031993314624,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e4c41-8dfe-7901-9aee-9d83603dfe15",
+      "sha256": "8139c63ab1f7d2445e0a2e295f9a0c0370a699abe04a7206152be492a543fefe",
+      "created": "2026-05-21T20:37:05.984Z",
+      "duration": 5.7599373,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      }
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "राजा राजेश्वरी नगर में interview है. Address भेज रहा हूँ अभी.",
+              "confidence": 0.9926758,
+              "languages": [
+                "hi"
+              ],
+              "words": [
+                {
+                  "word": "राजा",
+                  "start": 0.56,
+                  "end": 1.12,
+                  "confidence": 0.99658203,
+                  "punctuated_word": "राजा",
+                  "language": "hi"
+                },
+                {
+                  "word": "राजेश्वरी",
+                  "start": 1.12,
+                  "end": 1.68,
+                  "confidence": 0.99432373,
+                  "punctuated_word": "राजेश्वरी",
+                  "language": "hi"
+                },
+                {
+                  "word": "नगर",
+                  "start": 1.68,
+                  "end": 1.92,
+                  "confidence": 0.98461914,
+                  "punctuated_word": "नगर",
+                  "language": "hi"
+                },
+                {
+                  "word": "में",
+                  "start": 1.92,
+                  "end": 2.1599998,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "में",
+                  "language": "hi"
+                },
+                {
+                  "word": "interview",
+                  "start": 2.1599998,
+                  "end": 2.56,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "interview",
+                  "language": "hi"
+                },
+                {
+                  "word": "है",
+                  "start": 2.56,
+                  "end": 3.04,
+                  "confidence": 0.75561523,
+                  "punctuated_word": "है.",
+                  "language": "hi"
+                },
+                {
+                  "word": "address",
+                  "start": 3.04,
+                  "end": 3.4399998,
+                  "confidence": 0.6479492,
+                  "punctuated_word": "Address",
+                  "language": "hi"
+                },
+                {
+                  "word": "भेज",
+                  "start": 3.4399998,
+                  "end": 3.84,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "भेज",
+                  "language": "hi"
+                },
+                {
+                  "word": "रहा",
+                  "start": 3.84,
+                  "end": 4.08,
+                  "confidence": 0.9926758,
+                  "punctuated_word": "रहा",
+                  "language": "hi"
+                },
+                {
+                  "word": "हूँ",
+                  "start": 4.08,
+                  "end": 4.16,
+                  "confidence": 0.91430664,
+                  "punctuated_word": "हूँ",
+                  "language": "hi"
+                },
+                {
+                  "word": "अभी",
+                  "start": 4.16,
+                  "end": 5.7599998,
+                  "confidence": 0.92333984,
+                  "punctuated_word": "अभी.",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nराजा राजेश्वरी नगर में interview है. Address भेज रहा हूँ अभी.",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "राजा राजेश्वरी नगर में interview है.",
+                        "start": 0.56,
+                        "end": 3.04
+                      },
+                      {
+                        "text": "Address भेज रहा हूँ अभी.",
+                        "start": 3.04,
+                        "end": 5.7599998
+                      }
+                    ],
+                    "num_words": 11,
+                    "start": 0.56,
+                    "end": 5.7599998
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

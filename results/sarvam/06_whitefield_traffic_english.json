@@ -1,0 +1,15 @@
+{
+  "clip_id": "06_whitefield_traffic_english",
+  "filename": "06_whitefield_traffic_english.m4a",
+  "model": "sarvam",
+  "transcript": "I work in Whitefield near the IPTL main road.",
+  "language_detected": "en-IN",
+  "latency_total_ms": 1152.2685997188091,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_1271544c-29eb-4948-97a9-72bcbaca6efb",
+    "transcript": "I work in Whitefield near the IPTL main road.",
+    "language_code": "en-IN"
+  }
+}

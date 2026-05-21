@@ -1,0 +1,168 @@
+{
+  "clip_id": "07_marathahalli_traffic_hinglish",
+  "filename": "07_marathahalli_traffic_hinglish.m4a",
+  "model": "deepgram",
+  "transcript": "हां, मारा खली bridge के नीचे उतर जाना, वहां से auto मिल जाएगा.",
+  "language_detected": null,
+  "latency_total_ms": 3711.707300506532,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e4c40-fee8-7812-972c-3709ae59cbda",
+      "sha256": "626060c684259d560ce73ad6325bc574c95099265d3a570f5a6c69134c0049de",
+      "created": "2026-05-21T20:36:30.654Z",
+      "duration": 13.205313,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      }
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "हां, मारा खली bridge के नीचे उतर जाना, वहां से auto मिल जाएगा.",
+              "confidence": 0.99316406,
+              "languages": [
+                "hi"
+              ],
+              "words": [
+                {
+                  "word": "हां",
+                  "start": 3.04,
+                  "end": 3.4399998,
+                  "confidence": 0.86279297,
+                  "punctuated_word": "हां,",
+                  "language": "hi"
+                },
+                {
+                  "word": "मारा",
+                  "start": 3.4399998,
+                  "end": 3.84,
+                  "confidence": 0.9815674,
+                  "punctuated_word": "मारा",
+                  "language": "hi"
+                },
+                {
+                  "word": "खली",
+                  "start": 3.84,
+                  "end": 4.16,
+                  "confidence": 0.67211914,
+                  "punctuated_word": "खली",
+                  "language": "hi"
+                },
+                {
+                  "word": "bridge",
+                  "start": 4.16,
+                  "end": 4.48,
+                  "confidence": 0.99316406,
+                  "punctuated_word": "bridge",
+                  "language": "hi"
+                },
+                {
+                  "word": "के",
+                  "start": 4.48,
+                  "end": 4.64,
+                  "confidence": 0.9995117,
+                  "punctuated_word": "के",
+                  "language": "hi"
+                },
+                {
+                  "word": "नीचे",
+                  "start": 4.64,
+                  "end": 4.96,
+                  "confidence": 0.99975586,
+                  "punctuated_word": "नीचे",
+                  "language": "hi"
+                },
+                {
+                  "word": "उतर",
+                  "start": 4.96,
+                  "end": 5.2,
+                  "confidence": 0.9875488,
+                  "punctuated_word": "उतर",
+                  "language": "hi"
+                },
+                {
+                  "word": "जाना",
+                  "start": 5.2,
+                  "end": 5.68,
+                  "confidence": 0.87005615,
+                  "punctuated_word": "जाना,",
+                  "language": "hi"
+                },
+                {
+                  "word": "वहां",
+                  "start": 5.68,
+                  "end": 5.92,
+                  "confidence": 0.9667969,
+                  "punctuated_word": "वहां",
+                  "language": "hi"
+                },
+                {
+                  "word": "से",
+                  "start": 5.92,
+                  "end": 6.08,
+                  "confidence": 1.0,
+                  "punctuated_word": "से",
+                  "language": "hi"
+                },
+                {
+                  "word": "auto",
+                  "start": 6.08,
+                  "end": 6.3199997,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "auto",
+                  "language": "hi"
+                },
+                {
+                  "word": "मिल",
+                  "start": 6.3199997,
+                  "end": 6.64,
+                  "confidence": 1.0,
+                  "punctuated_word": "मिल",
+                  "language": "hi"
+                },
+                {
+                  "word": "जाएगा",
+                  "start": 6.64,
+                  "end": 7.9199996,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "जाएगा.",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nहां, मारा खली bridge के नीचे उतर जाना, वहां से auto मिल जाएगा.",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "हां, मारा खली bridge के नीचे उतर जाना, वहां से auto मिल जाएगा.",
+                        "start": 3.04,
+                        "end": 7.9199996
+                      }
+                    ],
+                    "num_words": 13,
+                    "start": 3.04,
+                    "end": 7.9199996
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

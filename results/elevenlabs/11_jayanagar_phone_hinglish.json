@@ -1,0 +1,265 @@
+{
+  "clip_id": "11_jayanagar_phone_hinglish",
+  "filename": "11_jayanagar_phone_hinglish.m4a",
+  "model": "elevenlabs",
+  "transcript": "सर, अअअ मेरा नाम सानुका है, जयानगर फोर्थ ब्लॉक से बात कर रही हूं।",
+  "language_detected": "hin",
+  "latency_total_ms": 2380.0181997939944,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "hin",
+    "language_probability": 0.9759449362754822,
+    "text": "सर, अअअ मेरा नाम सानुका है, जयानगर फोर्थ ब्लॉक से बात कर रही हूं।",
+    "words": [
+      {
+        "text": "सर,",
+        "start": 1.959,
+        "end": 2.339,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.05246536682049433,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.339,
+        "end": 2.539,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.039986301213502884,
+        "characters": null
+      },
+      {
+        "text": "अअअ",
+        "start": 2.539,
+        "end": 2.899,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.021766211992750566,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.899,
+        "end": 2.979,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.15204425156116486,
+        "characters": null
+      },
+      {
+        "text": "मेरा",
+        "start": 2.98,
+        "end": 3.24,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.038084610690930276,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.24,
+        "end": 3.339,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00024637524620629847,
+        "characters": null
+      },
+      {
+        "text": "नाम",
+        "start": 3.339,
+        "end": 3.519,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00010445658214545499,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.519,
+        "end": 3.599,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.10317754745483398,
+        "characters": null
+      },
+      {
+        "text": "सानुका",
+        "start": 3.599,
+        "end": 4.059,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.2001683658284795,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.059,
+        "end": 4.099,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0012541294563561678,
+        "characters": null
+      },
+      {
+        "text": "है,",
+        "start": 4.099,
+        "end": 4.239,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.36398567360204953,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.239,
+        "end": 4.379,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.5775517821311951,
+        "characters": null
+      },
+      {
+        "text": "जयानगर",
+        "start": 4.38,
+        "end": 4.9,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.3131103316288015,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.9,
+        "end": 4.96,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.3325541317462921,
+        "characters": null
+      },
+      {
+        "text": "फोर्थ",
+        "start": 4.96,
+        "end": 5.179,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.08681429196149111,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.179,
+        "end": 5.259,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00010835537250386551,
+        "characters": null
+      },
+      {
+        "text": "ब्लॉक",
+        "start": 5.259,
+        "end": 5.46,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0014920887027983555,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.46,
+        "end": 5.519,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00014244495832826942,
+        "characters": null
+      },
+      {
+        "text": "से",
+        "start": 5.519,
+        "end": 5.599,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00012033429447910748,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.599,
+        "end": 5.639,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -6.556489552167477e-06,
+        "characters": null
+      },
+      {
+        "text": "बात",
+        "start": 5.639,
+        "end": 5.9,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -5.364403326287477e-06,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.9,
+        "end": 5.94,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -2.8967437174287625e-05,
+        "characters": null
+      },
+      {
+        "text": "कर",
+        "start": 5.94,
+        "end": 6.039,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -2.8967437174287625e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.039,
+        "end": 6.139,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.000625176471658051,
+        "characters": null
+      },
+      {
+        "text": "रही",
+        "start": 6.139,
+        "end": 6.219,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.002010333895062407,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.219,
+        "end": 6.239,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0006899837171658874,
+        "characters": null
+      },
+      {
+        "text": "हूं।",
+        "start": 6.239,
+        "end": 6.719,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.011414321488700807,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "aJm4lel2fjTIvyGtuxG1",
+    "entities": null,
+    "audio_duration_secs": 7.488
+  }
+}

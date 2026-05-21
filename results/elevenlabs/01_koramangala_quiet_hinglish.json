@@ -1,0 +1,175 @@
+{
+  "clip_id": "01_koramangala_quiet_hinglish",
+  "filename": "01_koramangala_quiet_hinglish.m4a",
+  "model": "elevenlabs",
+  "transcript": "हां भैया, गौरमंगला में रहती हूं। फिफ्थ लॉक में।",
+  "language_detected": "hin",
+  "latency_total_ms": 1797.2618006169796,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "hin",
+    "language_probability": 0.9727363586425781,
+    "text": "हां भैया, गौरमंगला में रहती हूं। फिफ्थ लॉक में।",
+    "words": [
+      {
+        "text": "हां",
+        "start": 1.059,
+        "end": 1.22,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.3855265974998474,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.22,
+        "end": 1.279,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00873175635933876,
+        "characters": null
+      },
+      {
+        "text": "भैया,",
+        "start": 1.279,
+        "end": 1.599,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.03546115532517433,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.599,
+        "end": 1.679,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0006544832140207291,
+        "characters": null
+      },
+      {
+        "text": "गौरमंगला",
+        "start": 1.679,
+        "end": 2.24,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.17739468812942505,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.24,
+        "end": 2.299,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -7.271740287251305e-06,
+        "characters": null
+      },
+      {
+        "text": "में",
+        "start": 2.299,
+        "end": 2.379,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.022544813644041522,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.379,
+        "end": 2.439,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0007234578370116651,
+        "characters": null
+      },
+      {
+        "text": "रहती",
+        "start": 2.44,
+        "end": 2.74,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0005678644702129532,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.74,
+        "end": 2.779,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -5.280832192511298e-05,
+        "characters": null
+      },
+      {
+        "text": "हूं।",
+        "start": 2.779,
+        "end": 2.939,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.011085790233664738,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.939,
+        "end": 2.979,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.15429235994815826,
+        "characters": null
+      },
+      {
+        "text": "फिफ्थ",
+        "start": 2.98,
+        "end": 3.199,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.2959305100142956,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.199,
+        "end": 3.319,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.003936281893402338,
+        "characters": null
+      },
+      {
+        "text": "लॉक",
+        "start": 3.319,
+        "end": 3.519,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.010795137068877617,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.519,
+        "end": 3.579,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00018916724366135895,
+        "characters": null
+      },
+      {
+        "text": "में।",
+        "start": 3.579,
+        "end": 4.239,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.003099684436165262,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "Rt8hrQNTec1wAc654iUg",
+    "entities": null,
+    "audio_duration_secs": 4.7146875
+  }
+}

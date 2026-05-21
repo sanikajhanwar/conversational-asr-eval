@@ -1,0 +1,193 @@
+{
+  "clip_id": "03_hsrlayout_quiet_english",
+  "filename": "03_hsrlayout_quiet_english.m4a",
+  "model": "elevenlabs",
+  "transcript": "Yes, so I stay in a Chisso layout sector two.",
+  "language_detected": "ita",
+  "latency_total_ms": 1221.6819999739528,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "ita",
+    "language_probability": 0.4700778126716614,
+    "text": "Yes, so I stay in a Chisso layout sector two.",
+    "words": [
+      {
+        "text": "Yes,",
+        "start": 0.959,
+        "end": 1.179,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -1.2180344834923744,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.179,
+        "end": 1.319,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.025441640987992287,
+        "characters": null
+      },
+      {
+        "text": "so",
+        "start": 1.319,
+        "end": 1.719,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.025441640987992287,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.719,
+        "end": 1.779,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.1483626365661621,
+        "characters": null
+      },
+      {
+        "text": "I",
+        "start": 1.779,
+        "end": 1.939,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.1483626365661621,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.939,
+        "end": 1.959,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.015039624646306038,
+        "characters": null
+      },
+      {
+        "text": "stay",
+        "start": 1.959,
+        "end": 2.18,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.015039624646306038,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.18,
+        "end": 2.2,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.015197907574474812,
+        "characters": null
+      },
+      {
+        "text": "in",
+        "start": 2.2,
+        "end": 2.279,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.015197907574474812,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.279,
+        "end": 2.319,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.1762421131134033,
+        "characters": null
+      },
+      {
+        "text": "a",
+        "start": 2.319,
+        "end": 2.399,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -1.1762421131134033,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.399,
+        "end": 2.419,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.583261489868164,
+        "characters": null
+      },
+      {
+        "text": "Chisso",
+        "start": 2.419,
+        "end": 2.759,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -1.7779083251953125,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.759,
+        "end": 2.799,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.6689026355743408,
+        "characters": null
+      },
+      {
+        "text": "layout",
+        "start": 2.799,
+        "end": 3.24,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.6689026355743408,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.24,
+        "end": 3.279,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.5022615194320679,
+        "characters": null
+      },
+      {
+        "text": "sector",
+        "start": 3.279,
+        "end": 3.619,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.5022615194320679,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.619,
+        "end": 3.659,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.36992430686950684,
+        "characters": null
+      },
+      {
+        "text": "two.",
+        "start": 3.659,
+        "end": 3.899,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.2787518760887906,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "L5eug4lFR262BhLSiTAE",
+    "entities": null,
+    "audio_duration_secs": 5.0986875
+  }
+}

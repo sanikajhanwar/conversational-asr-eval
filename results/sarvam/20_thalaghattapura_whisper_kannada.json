@@ -1,0 +1,15 @@
+{
+  "clip_id": "20_thalaghattapura_whisper_kannada",
+  "filename": "20_thalaghattapura_whisper_kannada.m4a",
+  "model": "sarvam",
+  "transcript": "थल्लगटपुरा साइड, नाइस रोड के पास, समझा?",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1125.2944003790617,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_67fb56a1-fbbb-4131-8e13-d09dca28410e",
+    "transcript": "थल्लगटपुरा साइड, नाइस रोड के पास, समझा?",
+    "language_code": "hi-IN"
+  }
+}

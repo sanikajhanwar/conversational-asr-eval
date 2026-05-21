@@ -1,0 +1,15 @@
+{
+  "clip_id": "10_kadugondanahalli_traffic_hindi",
+  "filename": "10_kadugondanahalli_traffic_hindi.m4a",
+  "model": "sarvam",
+  "transcript": "मेरा एरिया का नाम कद्दू गोंदन अली है, केजी अली बोलते हैं लोग।",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1196.6491006314754,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_58d04b0c-67ba-49cd-b068-9e2ecfe8c236",
+    "transcript": "मेरा एरिया का नाम कद्दू गोंदन अली है, केजी अली बोलते हैं लोग।",
+    "language_code": "hi-IN"
+  }
+}

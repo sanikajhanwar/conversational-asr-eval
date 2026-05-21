@@ -1,0 +1,15 @@
+{
+  "clip_id": "16_yelahanka_whisper_kannada",
+  "filename": "16_yelahanka_whisper_kannada.m4a",
+  "model": "sarvam",
+  "transcript": "ನಾನು ಯಲಂಕಾ ಡೆಲ್ಲಿ ಇದ್ದೇನೆ ಏರ್ಪೋರ್ಟ್ ಹತ್ತಿರ",
+  "language_detected": "kn-IN",
+  "latency_total_ms": 1188.8040993362665,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_f8e6deec-1f18-47f4-b59a-e5f3ce7975c4",
+    "transcript": "ನಾನು ಯಲಂಕಾ ಡೆಲ್ಲಿ ಇದ್ದೇನೆ ಏರ್ಪೋರ್ಟ್ ಹತ್ತಿರ",
+    "language_code": "kn-IN"
+  }
+}

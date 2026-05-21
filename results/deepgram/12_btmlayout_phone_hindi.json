@@ -1,0 +1,149 @@
+{
+  "clip_id": "12_btmlayout_phone_hindi",
+  "filename": "12_btmlayout_phone_hindi.m4a",
+  "model": "deepgram",
+  "transcript": "बीटीएम लेआउट में flat देखना है. क्या आप free हैं?",
+  "language_detected": null,
+  "latency_total_ms": 2369.5338992401958,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e4c41-3acf-7982-bfb3-5ccf50336270",
+      "sha256": "be969fd5eab85efafb980adaae91df40cc070d863093ec6001d9cca51b1cccee",
+      "created": "2026-05-21T20:36:44.728Z",
+      "duration": 4.138625,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      }
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "बीटीएम लेआउट में flat देखना है. क्या आप free हैं?",
+              "confidence": 0.9790039,
+              "languages": [
+                "hi"
+              ],
+              "words": [
+                {
+                  "word": "बीटीएम",
+                  "start": 0.39999998,
+                  "end": 0.96,
+                  "confidence": 0.91669923,
+                  "punctuated_word": "बीटीएम",
+                  "language": "hi"
+                },
+                {
+                  "word": "लेआउट",
+                  "start": 0.96,
+                  "end": 1.4399999,
+                  "confidence": 0.8656006,
+                  "punctuated_word": "लेआउट",
+                  "language": "hi"
+                },
+                {
+                  "word": "में",
+                  "start": 1.4399999,
+                  "end": 1.5999999,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "में",
+                  "language": "hi"
+                },
+                {
+                  "word": "flat",
+                  "start": 1.5999999,
+                  "end": 1.92,
+                  "confidence": 0.9790039,
+                  "punctuated_word": "flat",
+                  "language": "hi"
+                },
+                {
+                  "word": "देखना",
+                  "start": 1.92,
+                  "end": 2.32,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "देखना",
+                  "language": "hi"
+                },
+                {
+                  "word": "है",
+                  "start": 2.32,
+                  "end": 2.48,
+                  "confidence": 0.97143555,
+                  "punctuated_word": "है.",
+                  "language": "hi"
+                },
+                {
+                  "word": "क्या",
+                  "start": 2.48,
+                  "end": 2.6399999,
+                  "confidence": 0.99902344,
+                  "punctuated_word": "क्या",
+                  "language": "hi"
+                },
+                {
+                  "word": "आप",
+                  "start": 2.6399999,
+                  "end": 2.8,
+                  "confidence": 0.9970703,
+                  "punctuated_word": "आप",
+                  "language": "hi"
+                },
+                {
+                  "word": "free",
+                  "start": 2.8,
+                  "end": 3.04,
+                  "confidence": 0.94189453,
+                  "punctuated_word": "free",
+                  "language": "hi"
+                },
+                {
+                  "word": "हैं",
+                  "start": 3.04,
+                  "end": 4.64,
+                  "confidence": 0.9680176,
+                  "punctuated_word": "हैं?",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nबीटीएम लेआउट में flat देखना है. क्या आप free हैं?",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "बीटीएम लेआउट में flat देखना है.",
+                        "start": 0.39999998,
+                        "end": 2.48
+                      },
+                      {
+                        "text": "क्या आप free हैं?",
+                        "start": 2.48,
+                        "end": 4.64
+                      }
+                    ],
+                    "num_words": 10,
+                    "start": 0.39999998,
+                    "end": 4.64
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

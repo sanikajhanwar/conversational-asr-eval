@@ -1,0 +1,181 @@
+{
+  "clip_id": "11_jayanagar_phone_hinglish",
+  "filename": "11_jayanagar_phone_hinglish.m4a",
+  "model": "deepgram",
+  "transcript": "Sir, मेरा नाम सानका है. जय नगर fourth block से बात कर रहे हो.",
+  "language_detected": null,
+  "latency_total_ms": 2928.515600040555,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e4c41-3071-7ba2-8b50-87dc77486025",
+      "sha256": "a62d9263586d45e072852fce5bcb1ed0f3d2aef299c3f40ae97c443f87bf4ba8",
+      "created": "2026-05-21T20:36:42.392Z",
+      "duration": 7.4879375,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      }
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "Sir, मेरा नाम सानका है. जय नगर fourth block से बात कर रहे हो.",
+              "confidence": 0.9904785,
+              "languages": [
+                "hi"
+              ],
+              "words": [
+                {
+                  "word": "sir",
+                  "start": 1.8399999,
+                  "end": 2.56,
+                  "confidence": 0.9785156,
+                  "punctuated_word": "Sir,",
+                  "language": "hi"
+                },
+                {
+                  "word": "मेरा",
+                  "start": 2.8799999,
+                  "end": 3.28,
+                  "confidence": 0.99975586,
+                  "punctuated_word": "मेरा",
+                  "language": "hi"
+                },
+                {
+                  "word": "नाम",
+                  "start": 3.28,
+                  "end": 3.6,
+                  "confidence": 1.0,
+                  "punctuated_word": "नाम",
+                  "language": "hi"
+                },
+                {
+                  "word": "सानका",
+                  "start": 3.6,
+                  "end": 4.08,
+                  "confidence": 0.9416504,
+                  "punctuated_word": "सानका",
+                  "language": "hi"
+                },
+                {
+                  "word": "है",
+                  "start": 4.08,
+                  "end": 4.3199997,
+                  "confidence": 0.97631836,
+                  "punctuated_word": "है.",
+                  "language": "hi"
+                },
+                {
+                  "word": "जय",
+                  "start": 4.3199997,
+                  "end": 4.56,
+                  "confidence": 0.84814453,
+                  "punctuated_word": "जय",
+                  "language": "hi"
+                },
+                {
+                  "word": "नगर",
+                  "start": 4.56,
+                  "end": 4.88,
+                  "confidence": 0.8178711,
+                  "punctuated_word": "नगर",
+                  "language": "hi"
+                },
+                {
+                  "word": "fourth",
+                  "start": 4.88,
+                  "end": 5.2,
+                  "confidence": 0.82666016,
+                  "punctuated_word": "fourth",
+                  "language": "hi"
+                },
+                {
+                  "word": "block",
+                  "start": 5.2,
+                  "end": 5.52,
+                  "confidence": 0.9951172,
+                  "punctuated_word": "block",
+                  "language": "hi"
+                },
+                {
+                  "word": "से",
+                  "start": 5.52,
+                  "end": 5.68,
+                  "confidence": 1.0,
+                  "punctuated_word": "से",
+                  "language": "hi"
+                },
+                {
+                  "word": "बात",
+                  "start": 5.68,
+                  "end": 5.92,
+                  "confidence": 1.0,
+                  "punctuated_word": "बात",
+                  "language": "hi"
+                },
+                {
+                  "word": "कर",
+                  "start": 5.92,
+                  "end": 6.08,
+                  "confidence": 1.0,
+                  "punctuated_word": "कर",
+                  "language": "hi"
+                },
+                {
+                  "word": "रहे",
+                  "start": 6.08,
+                  "end": 6.3199997,
+                  "confidence": 0.7800293,
+                  "punctuated_word": "रहे",
+                  "language": "hi"
+                },
+                {
+                  "word": "हो",
+                  "start": 6.3199997,
+                  "end": 6.64,
+                  "confidence": 0.9904785,
+                  "punctuated_word": "हो.",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nSir, मेरा नाम सानका है. जय नगर fourth block से बात कर रहे हो.",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "Sir, मेरा नाम सानका है.",
+                        "start": 1.8399999,
+                        "end": 4.3199997
+                      },
+                      {
+                        "text": "जय नगर fourth block से बात कर रहे हो.",
+                        "start": 4.3199997,
+                        "end": 6.64
+                      }
+                    ],
+                    "num_words": 14,
+                    "start": 1.8399999,
+                    "end": 6.64
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

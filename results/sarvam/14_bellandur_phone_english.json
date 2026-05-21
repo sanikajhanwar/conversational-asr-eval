@@ -1,0 +1,15 @@
+{
+  "clip_id": "14_bellandur_phone_english",
+  "filename": "14_bellandur_phone_english.m4a",
+  "model": "sarvam",
+  "transcript": "I am currently in Bellandur. Can the delivery come here by 6?",
+  "language_detected": "en-IN",
+  "latency_total_ms": 1260.2506997063756,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_e76c27bb-5f19-4d79-a23a-c7124c6ab69f",
+    "transcript": "I am currently in Bellandur. Can the delivery come here by 6?",
+    "language_code": "en-IN"
+  }
+}

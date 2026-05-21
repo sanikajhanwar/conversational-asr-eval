@@ -1,0 +1,121 @@
+{
+  "clip_id": "16_yelahanka_whisper_kannada",
+  "filename": "16_yelahanka_whisper_kannada.m4a",
+  "model": "elevenlabs",
+  "transcript": "ನಾನು ಯಲಂಕಾಡಲಿ ಇದ್ದೇನೆ. ಏರ್ ಪೋರ್ಟ್ ಹತ್ತಿರ.",
+  "language_detected": "kan",
+  "latency_total_ms": 2503.696800209582,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "kan",
+    "language_probability": 0.9976943731307983,
+    "text": "ನಾನು ಯಲಂಕಾಡಲಿ ಇದ್ದೇನೆ. ಏರ್ ಪೋರ್ಟ್ ಹತ್ತಿರ.",
+    "words": [
+      {
+        "text": "ನಾನು",
+        "start": 0.979,
+        "end": 1.48,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0021726707224161146,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.48,
+        "end": 1.519,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.002914112526923418,
+        "characters": null
+      },
+      {
+        "text": "ಯಲಂಕಾಡಲಿ",
+        "start": 1.519,
+        "end": 2.519,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.018923453189927386,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.519,
+        "end": 2.539,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.08159452676773071,
+        "characters": null
+      },
+      {
+        "text": "ಇದ್ದೇನೆ.",
+        "start": 2.539,
+        "end": 3.119,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.07771218580359118,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.119,
+        "end": 3.539,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.018433453515172005,
+        "characters": null
+      },
+      {
+        "text": "ಏರ್",
+        "start": 3.539,
+        "end": 3.759,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.020020700389674555,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.759,
+        "end": 3.799,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.48991361260414124,
+        "characters": null
+      },
+      {
+        "text": "ಪೋರ್ಟ್",
+        "start": 3.799,
+        "end": 3.979,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0007769288446676607,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.979,
+        "end": 4.039,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0011688789818435907,
+        "characters": null
+      },
+      {
+        "text": "ಹತ್ತಿರ.",
+        "start": 4.039,
+        "end": 4.539,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0011939129613145788,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "SImSt5vVsMlnVruaOHDb",
+    "entities": null,
+    "audio_duration_secs": 5.44
+  }
+}

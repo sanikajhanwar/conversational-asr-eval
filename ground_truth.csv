@@ -1,5 +1,5 @@
 filename,locality_canonical,locality_aliases,sentence_expected,condition,language
-01_koramangala_quiet_hinglish.m4a,Koramangala,"koramangla;koramangaala;koramangalam","Haan bhaiya, main Koramangala mein rehta hoon, 5th block.",quiet,hinglish
+01_koramangala_quiet_hinglish.m4a,Koramangala,"koramangla;koramangaala;koramangalam","Haan bhaiya, main Koramangala mein rehti hoon, 5th block.",quiet,hinglish
 02_indiranagar_quiet_hindi.m4a,Indiranagar,"indranagar;indiranagara;indra nagar","Mera ghar Indiranagar mein hai, metro station ke paas.",quiet,hindi
 03_hsrlayout_quiet_english.m4a,HSR Layout,"hsr;hsr layout;h s r layout;hsrlayout","Yes sir, I stay in HSR Layout, sector 2.",quiet,english
 04_hebbal_quiet_hinglish.m4a,Hebbal,"hebal;hebbala;hebbel","Job ke liye Hebbal se aana padega, traffic kaisa hai?",quiet,hinglish
@@ -16,6 +16,6 @@ filename,locality_canonical,locality_aliases,sentence_expected,condition,languag
 15_hesaraghatta_phone_hindi.m4a,Hesaraghatta,"hesarghatta;heseraghatta;hesaraghata","Madam, main Hesaraghatta se hoon, gaon ki taraf.",phone,hindi
 16_yelahanka_whisper_kannada.m4a,Yelahanka,"yelhanka;yelahanka;elahanka","Naanu Yelahankadalli iddeene, airport hattira.",whisper,kannada
 17_banashankari_rushed_hinglish.m4a,Banashankari,"banshankari;banashankri;banashankara","Yaar jaldi bata, Banashankari se Majestic kitne kilometre hai?",rushed,hinglish
-18_majestic_whisper_hindi.m4a,Majestic,"majestik;magestic","Majestic bus stand ke andar khada hoon, mil jaaoge?",whisper,hindi
+18_majestic_whisper_hindi.m4a,Majestic,"majestik;magestic","Majestic bus stand ke andar khadi hoon, mil jaaoge?",whisper,hindi
 19_rajarajeshwarinagar_rushed_hindi.m4a,Rajarajeshwarinagar,"rajarajeshwari nagar;raja rajeshwari nagar;rrnagar;rr nagar","Rajarajeshwarinagar mein interview hai, address bhej raha hoon abhi.",rushed,hindi
 20_thalaghattapura_whisper_kannada.m4a,Thalaghattapura,"talaghattapura;thalghattapura;talghattapura","Thalaghattapura side, NICE road ke paas, samjha?",whisper,kannada

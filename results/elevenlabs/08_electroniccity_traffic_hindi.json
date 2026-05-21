@@ -1,0 +1,229 @@
+{
+  "clip_id": "08_electroniccity_traffic_hindi",
+  "filename": "08_electroniccity_traffic_hindi.m4a",
+  "model": "elevenlabs",
+  "transcript": "मैं इलेक्ट्रॉनिक सिटी फेज वन में रहती हूं और इंफोसिस के पीछे।",
+  "language_detected": "hin",
+  "latency_total_ms": 1771.0449006408453,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "hin",
+    "language_probability": 0.9902242422103882,
+    "text": "मैं इलेक्ट्रॉनिक सिटी फेज वन में रहती हूं और इंफोसिस के पीछे।",
+    "words": [
+      {
+        "text": "मैं",
+        "start": 3.659,
+        "end": 3.659,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.020593983819708228,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.659,
+        "end": 3.679,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0005589353386312723,
+        "characters": null
+      },
+      {
+        "text": "इलेक्ट्रॉनिक",
+        "start": 3.679,
+        "end": 4.199,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0007901503076936933,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.199,
+        "end": 4.259,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0026096594519913197,
+        "characters": null
+      },
+      {
+        "text": "सिटी",
+        "start": 4.259,
+        "end": 4.48,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0013426871719275368,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.48,
+        "end": 4.619,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0002008474839385599,
+        "characters": null
+      },
+      {
+        "text": "फेज",
+        "start": 4.619,
+        "end": 4.92,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.08361464066547342,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.92,
+        "end": 5.019,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.009004698134958744,
+        "characters": null
+      },
+      {
+        "text": "वन",
+        "start": 5.019,
+        "end": 5.199,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.009004698134958744,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.199,
+        "end": 5.319,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0005430892342701554,
+        "characters": null
+      },
+      {
+        "text": "में",
+        "start": 5.319,
+        "end": 5.42,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0009498834842815995,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.42,
+        "end": 5.48,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0008625839254818857,
+        "characters": null
+      },
+      {
+        "text": "रहती",
+        "start": 5.48,
+        "end": 5.819,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0006504545933694317,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.819,
+        "end": 5.839,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.156323378381785e-05,
+        "characters": null
+      },
+      {
+        "text": "हूं",
+        "start": 5.839,
+        "end": 6.119,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.30257161456089915,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.119,
+        "end": 6.199,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.5879308581352234,
+        "characters": null
+      },
+      {
+        "text": "और",
+        "start": 6.199,
+        "end": 6.359,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.5879308581352234,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.359,
+        "end": 6.399,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.03616344928741455,
+        "characters": null
+      },
+      {
+        "text": "इंफोसिस",
+        "start": 6.399,
+        "end": 6.94,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00875631512047091,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.94,
+        "end": 6.98,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -2.253030106658116e-05,
+        "characters": null
+      },
+      {
+        "text": "के",
+        "start": 6.98,
+        "end": 7.059,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00245622067086515,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 7.059,
+        "end": 7.099,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -2.8371408916427754e-05,
+        "characters": null
+      },
+      {
+        "text": "पीछे।",
+        "start": 7.099,
+        "end": 9.019,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0024231198603956727,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "LXIi0pqxYLmn6x3fXNKZ",
+    "entities": null,
+    "audio_duration_secs": 10.5813125
+  }
+}

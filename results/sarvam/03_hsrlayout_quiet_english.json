@@ -1,0 +1,15 @@
+{
+  "clip_id": "03_hsrlayout_quiet_english",
+  "filename": "03_hsrlayout_quiet_english.m4a",
+  "model": "sarvam",
+  "transcript": "Yes, so I stay in HSR layout, sector two.",
+  "language_detected": "en-IN",
+  "latency_total_ms": 1192.3902994021773,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_14254ab3-5ed5-4c67-8fc9-a3971df812d5",
+    "transcript": "Yes, so I stay in HSR layout, sector two.",
+    "language_code": "en-IN"
+  }
+}

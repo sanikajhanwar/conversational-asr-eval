@@ -1,0 +1,247 @@
+{
+  "clip_id": "14_bellandur_phone_english",
+  "filename": "14_bellandur_phone_english.m4a",
+  "model": "elevenlabs",
+  "transcript": "I am currently in Bellandur, uh, can the delivery come here by six?",
+  "language_detected": "eng",
+  "latency_total_ms": 1611.6180000826716,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "eng",
+    "language_probability": 0.9952631592750549,
+    "text": "I am currently in Bellandur, uh, can the delivery come here by six?",
+    "words": [
+      {
+        "text": "I",
+        "start": 0.599,
+        "end": 0.799,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.37305793166160583,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 0.799,
+        "end": 0.859,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.577540934085846,
+        "characters": null
+      },
+      {
+        "text": "am",
+        "start": 0.859,
+        "end": 1.139,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.577540934085846,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.139,
+        "end": 1.179,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00048530244384892285,
+        "characters": null
+      },
+      {
+        "text": "currently",
+        "start": 1.179,
+        "end": 1.539,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00048530244384892285,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.539,
+        "end": 1.559,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0032153832726180553,
+        "characters": null
+      },
+      {
+        "text": "in",
+        "start": 1.559,
+        "end": 1.699,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0032153832726180553,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.699,
+        "end": 1.739,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.17632640898227692,
+        "characters": null
+      },
+      {
+        "text": "Bellandur,",
+        "start": 1.74,
+        "end": 2.339,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0808154652826488,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.339,
+        "end": 2.579,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.04419022426009178,
+        "characters": null
+      },
+      {
+        "text": "uh,",
+        "start": 2.579,
+        "end": 2.879,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.034438048489391804,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.879,
+        "end": 2.919,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.007653201464563608,
+        "characters": null
+      },
+      {
+        "text": "can",
+        "start": 2.919,
+        "end": 3.039,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.007653201464563608,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.039,
+        "end": 3.079,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0009411911014467478,
+        "characters": null
+      },
+      {
+        "text": "the",
+        "start": 3.079,
+        "end": 3.159,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0009411911014467478,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.159,
+        "end": 3.199,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.002810340141877532,
+        "characters": null
+      },
+      {
+        "text": "delivery",
+        "start": 3.199,
+        "end": 3.559,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.002810340141877532,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.559,
+        "end": 3.619,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0012353177880868316,
+        "characters": null
+      },
+      {
+        "text": "come",
+        "start": 3.619,
+        "end": 3.74,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0012353177880868316,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.74,
+        "end": 3.779,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00315180909819901,
+        "characters": null
+      },
+      {
+        "text": "here",
+        "start": 3.779,
+        "end": 3.939,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00315180909819901,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.939,
+        "end": 3.959,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00012110930401831865,
+        "characters": null
+      },
+      {
+        "text": "by",
+        "start": 3.959,
+        "end": 4.079,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00012110930401831865,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.079,
+        "end": 4.179,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.9744780659675598,
+        "characters": null
+      },
+      {
+        "text": "six?",
+        "start": 4.179,
+        "end": 4.539,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.7339261886663735,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "h7xfJRjSXaGiA24ta5FO",
+    "entities": null,
+    "audio_duration_secs": 6.08
+  }
+}

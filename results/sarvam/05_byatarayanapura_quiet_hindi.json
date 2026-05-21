@@ -1,0 +1,15 @@
+{
+  "clip_id": "05_byatarayanapura_quiet_hindi",
+  "filename": "05_byatarayanapura_quiet_hindi.m4a",
+  "model": "sarvam",
+  "transcript": "सर मेरा एड्रेस बेयातार रयनापुरा है पास में बस स्टैंड है",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1425.4050999879837,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_644151ea-5eb0-4f32-a311-068afb2441fa",
+    "transcript": "सर मेरा एड्रेस बेयातार रयनापुरा है पास में बस स्टैंड है",
+    "language_code": "hi-IN"
+  }
+}

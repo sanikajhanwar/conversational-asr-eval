@@ -1,0 +1,211 @@
+{
+  "clip_id": "04_hebbal_quiet_hinglish",
+  "filename": "04_hebbal_quiet_hinglish.m4a",
+  "model": "elevenlabs",
+  "transcript": "جوب کے لئے ہبال سے آنا پڑے گا؟ ٹریفک کیسا ہے؟",
+  "language_detected": "urd",
+  "latency_total_ms": 1705.0511995330453,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "urd",
+    "language_probability": 0.9565883874893188,
+    "text": "جوب کے لئے ہبال سے آنا پڑے گا؟ ٹریفک کیسا ہے؟",
+    "words": [
+      {
+        "text": "جوب",
+        "start": 1.079,
+        "end": 1.299,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.19330572336912155,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.299,
+        "end": 1.359,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.18712134659290314,
+        "characters": null
+      },
+      {
+        "text": "کے",
+        "start": 1.36,
+        "end": 1.439,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.09362283707741881,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.439,
+        "end": 1.48,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.23096752166748047,
+        "characters": null
+      },
+      {
+        "text": "لئے",
+        "start": 1.48,
+        "end": 1.579,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.07769431857741438,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.579,
+        "end": 1.599,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.47177940607070923,
+        "characters": null
+      },
+      {
+        "text": "ہبال",
+        "start": 1.599,
+        "end": 1.979,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.35519986297003925,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.979,
+        "end": 2.039,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.8931342363357544,
+        "characters": null
+      },
+      {
+        "text": "سے",
+        "start": 2.039,
+        "end": 2.119,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.4522405229508877,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.119,
+        "end": 2.139,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -2.95634672511369e-05,
+        "characters": null
+      },
+      {
+        "text": "آنا",
+        "start": 2.139,
+        "end": 2.339,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.002957748579016576,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.339,
+        "end": 2.379,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0006764031131751835,
+        "characters": null
+      },
+      {
+        "text": "پڑے",
+        "start": 2.379,
+        "end": 2.539,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0005034804538202783,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.539,
+        "end": 2.559,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0021452526561915874,
+        "characters": null
+      },
+      {
+        "text": "گا؟",
+        "start": 2.559,
+        "end": 2.659,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00164009106811136,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.659,
+        "end": 2.799,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.0898569822311401,
+        "characters": null
+      },
+      {
+        "text": "ٹریفک",
+        "start": 2.799,
+        "end": 3.199,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.005686670308932662,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.199,
+        "end": 3.239,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00015579440514557064,
+        "characters": null
+      },
+      {
+        "text": "کیسا",
+        "start": 3.24,
+        "end": 3.539,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.020517015473160427,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.539,
+        "end": 3.579,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00039593485416844487,
+        "characters": null
+      },
+      {
+        "text": "ہے؟",
+        "start": 3.579,
+        "end": 3.819,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -2.892719082107457e-05,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "FtXDYD9ceKVhgNnkQLJE",
+    "entities": null,
+    "audio_duration_secs": 4.6293125
+  }
+}

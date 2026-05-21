@@ -1,0 +1,160 @@
+{
+  "clip_id": "05_byatarayanapura_quiet_hindi",
+  "filename": "05_byatarayanapura_quiet_hindi.m4a",
+  "model": "deepgram",
+  "transcript": "Sir, मेरा address ब्याता रहना पूरा है, पास में bus stand है.",
+  "language_detected": null,
+  "latency_total_ms": 3425.546900369227,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e4c40-e3ff-7643-a4e8-a7480e684efb",
+      "sha256": "187bfd2b00aa2cd179924f66642911fff46a09105e05ab4d46cbaea1842d72ae",
+      "created": "2026-05-21T20:36:23.484Z",
+      "duration": 8.255938,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      }
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "Sir, मेरा address ब्याता रहना पूरा है, पास में bus stand है.",
+              "confidence": 0.91748047,
+              "languages": [
+                "hi"
+              ],
+              "words": [
+                {
+                  "word": "sir",
+                  "start": 0.64,
+                  "end": 1.28,
+                  "confidence": 0.91748047,
+                  "punctuated_word": "Sir,",
+                  "language": "hi"
+                },
+                {
+                  "word": "मेरा",
+                  "start": 1.36,
+                  "end": 1.92,
+                  "confidence": 0.9987793,
+                  "punctuated_word": "मेरा",
+                  "language": "hi"
+                },
+                {
+                  "word": "address",
+                  "start": 1.92,
+                  "end": 2.6399999,
+                  "confidence": 0.99609375,
+                  "punctuated_word": "address",
+                  "language": "hi"
+                },
+                {
+                  "word": "ब्याता",
+                  "start": 2.72,
+                  "end": 3.52,
+                  "confidence": 0.9034831,
+                  "punctuated_word": "ब्याता",
+                  "language": "hi"
+                },
+                {
+                  "word": "रहना",
+                  "start": 3.52,
+                  "end": 4.0,
+                  "confidence": 0.74072266,
+                  "punctuated_word": "रहना",
+                  "language": "hi"
+                },
+                {
+                  "word": "पूरा",
+                  "start": 4.0,
+                  "end": 4.4,
+                  "confidence": 0.8833008,
+                  "punctuated_word": "पूरा",
+                  "language": "hi"
+                },
+                {
+                  "word": "है",
+                  "start": 4.4,
+                  "end": 5.6,
+                  "confidence": 0.7281494,
+                  "punctuated_word": "है,",
+                  "language": "hi"
+                },
+                {
+                  "word": "पास",
+                  "start": 5.6,
+                  "end": 5.92,
+                  "confidence": 0.9811198,
+                  "punctuated_word": "पास",
+                  "language": "hi"
+                },
+                {
+                  "word": "में",
+                  "start": 5.92,
+                  "end": 6.16,
+                  "confidence": 0.99853516,
+                  "punctuated_word": "में",
+                  "language": "hi"
+                },
+                {
+                  "word": "bus",
+                  "start": 6.16,
+                  "end": 6.48,
+                  "confidence": 0.5576172,
+                  "punctuated_word": "bus",
+                  "language": "hi"
+                },
+                {
+                  "word": "stand",
+                  "start": 6.48,
+                  "end": 6.72,
+                  "confidence": 0.8803711,
+                  "punctuated_word": "stand",
+                  "language": "hi"
+                },
+                {
+                  "word": "है",
+                  "start": 6.72,
+                  "end": 7.2,
+                  "confidence": 0.9658203,
+                  "punctuated_word": "है.",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nSir, मेरा address ब्याता रहना पूरा है, पास में bus stand है.",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "Sir, मेरा address ब्याता रहना पूरा है, पास में bus stand है.",
+                        "start": 0.64,
+                        "end": 7.2
+                      }
+                    ],
+                    "num_words": 12,
+                    "start": 0.64,
+                    "end": 7.2
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

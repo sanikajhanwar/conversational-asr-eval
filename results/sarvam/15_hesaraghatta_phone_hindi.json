@@ -1,0 +1,15 @@
+{
+  "clip_id": "15_hesaraghatta_phone_hindi",
+  "filename": "15_hesaraghatta_phone_hindi.m4a",
+  "model": "sarvam",
+  "transcript": "मैडम मैं हिसारागट्टा से हूँ गाँव की तरफ़",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1165.22999946028,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_022b881f-4dfc-4c5e-b3df-49e88d04336a",
+    "transcript": "मैडम मैं हिसारागट्टा से हूँ गाँव की तरफ़",
+    "language_code": "hi-IN"
+  }
+}

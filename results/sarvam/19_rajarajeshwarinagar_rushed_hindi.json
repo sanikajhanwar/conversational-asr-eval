@@ -1,0 +1,15 @@
+{
+  "clip_id": "19_rajarajeshwarinagar_rushed_hindi",
+  "filename": "19_rajarajeshwarinagar_rushed_hindi.m4a",
+  "model": "sarvam",
+  "transcript": "राजा राजेश्वरी नगर में इंटरव्यू है एड्रेस भेज रहा हूँ अभी",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1087.6427004113793,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_36083343-bfe0-4e49-a090-e03562727289",
+    "transcript": "राजा राजेश्वरी नगर में इंटरव्यू है एड्रेस भेज रहा हूँ अभी",
+    "language_code": "hi-IN"
+  }
+}

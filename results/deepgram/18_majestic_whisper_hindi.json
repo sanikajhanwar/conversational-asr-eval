@@ -1,0 +1,133 @@
+{
+  "clip_id": "18_majestic_whisper_hindi",
+  "filename": "18_majestic_whisper_hindi.m4a",
+  "model": "deepgram",
+  "transcript": "मैजिस्टिक बस के अंदर खड़ा हूं. मिल जाओगे?",
+  "language_detected": null,
+  "latency_total_ms": 2438.4535998106003,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e4c41-84c2-7ad3-bc74-6a180accef31",
+      "sha256": "db8c42f212808903da3fed45c148910831eaefa9898315a85dbf79c012ea62e5",
+      "created": "2026-05-21T20:37:03.706Z",
+      "duration": 4.906625,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      }
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "मैजिस्टिक बस के अंदर खड़ा हूं. मिल जाओगे?",
+              "confidence": 0.9914551,
+              "languages": [
+                "hi"
+              ],
+              "words": [
+                {
+                  "word": "मैजिस्टिक",
+                  "start": 0.88,
+                  "end": 1.68,
+                  "confidence": 0.89664716,
+                  "punctuated_word": "मैजिस्टिक",
+                  "language": "hi"
+                },
+                {
+                  "word": "बस",
+                  "start": 1.68,
+                  "end": 2.0,
+                  "confidence": 0.7636719,
+                  "punctuated_word": "बस",
+                  "language": "hi"
+                },
+                {
+                  "word": "के",
+                  "start": 2.0,
+                  "end": 2.32,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "के",
+                  "language": "hi"
+                },
+                {
+                  "word": "अंदर",
+                  "start": 2.32,
+                  "end": 2.6399999,
+                  "confidence": 0.9916992,
+                  "punctuated_word": "अंदर",
+                  "language": "hi"
+                },
+                {
+                  "word": "खड़ा",
+                  "start": 2.6399999,
+                  "end": 3.12,
+                  "confidence": 0.9914551,
+                  "punctuated_word": "खड़ा",
+                  "language": "hi"
+                },
+                {
+                  "word": "हूं",
+                  "start": 3.12,
+                  "end": 3.28,
+                  "confidence": 0.6989746,
+                  "punctuated_word": "हूं.",
+                  "language": "hi"
+                },
+                {
+                  "word": "मिल",
+                  "start": 3.28,
+                  "end": 3.6,
+                  "confidence": 0.9996745,
+                  "punctuated_word": "मिल",
+                  "language": "hi"
+                },
+                {
+                  "word": "जाओगे",
+                  "start": 3.6,
+                  "end": 5.6,
+                  "confidence": 0.9897461,
+                  "punctuated_word": "जाओगे?",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nमैजिस्टिक बस के अंदर खड़ा हूं. मिल जाओगे?",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "मैजिस्टिक बस के अंदर खड़ा हूं.",
+                        "start": 0.88,
+                        "end": 3.28
+                      },
+                      {
+                        "text": "मिल जाओगे?",
+                        "start": 3.28,
+                        "end": 5.6
+                      }
+                    ],
+                    "num_words": 8,
+                    "start": 0.88,
+                    "end": 5.6
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

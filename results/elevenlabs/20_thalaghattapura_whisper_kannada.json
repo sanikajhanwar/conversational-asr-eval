@@ -1,0 +1,175 @@
+{
+  "clip_id": "20_thalaghattapura_whisper_kannada",
+  "filename": "20_thalaghattapura_whisper_kannada.m4a",
+  "model": "elevenlabs",
+  "transcript": "ਥੱਲ ਗੱਟ ਪੂਰਾ ਸਹਿਦ, ਨਈਸ ਰੋਡ ਕੇ ਪਾਸ, ਸਮਝਾ।",
+  "language_detected": "pan",
+  "latency_total_ms": 1799.2922998964787,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "pan",
+    "language_probability": 0.9999678134918213,
+    "text": "ਥੱਲ ਗੱਟ ਪੂਰਾ ਸਹਿਦ, ਨਈਸ ਰੋਡ ਕੇ ਪਾਸ, ਸਮਝਾ।",
+    "words": [
+      {
+        "text": "ਥੱਲ",
+        "start": 0.62,
+        "end": 0.959,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.39526351703686186,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 0.959,
+        "end": 0.979,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.3405189514160156,
+        "characters": null
+      },
+      {
+        "text": "ਗੱਟ",
+        "start": 0.979,
+        "end": 1.159,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.17780070729592504,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.159,
+        "end": 1.279,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.29179707169532776,
+        "characters": null
+      },
+      {
+        "text": "ਪੂਰਾ",
+        "start": 1.279,
+        "end": 1.5,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.13127111430003424,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.5,
+        "end": 1.599,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.006649036426097155,
+        "characters": null
+      },
+      {
+        "text": "ਸਹਿਦ,",
+        "start": 1.599,
+        "end": 1.939,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.024656479083932935,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 1.939,
+        "end": 2.279,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.006916746497154236,
+        "characters": null
+      },
+      {
+        "text": "ਨਈਸ",
+        "start": 2.279,
+        "end": 2.579,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.013240432754779855,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.579,
+        "end": 2.659,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.07764299213886261,
+        "characters": null
+      },
+      {
+        "text": "ਰੋਡ",
+        "start": 2.659,
+        "end": 2.879,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.014790810707684917,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.879,
+        "end": 2.959,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.011517108418047428,
+        "characters": null
+      },
+      {
+        "text": "ਕੇ",
+        "start": 2.96,
+        "end": 3.019,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.017827210220275447,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.019,
+        "end": 3.099,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0021787970326840878,
+        "characters": null
+      },
+      {
+        "text": "ਪਾਸ,",
+        "start": 3.099,
+        "end": 3.339,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.01014239413825635,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.339,
+        "end": 3.399,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.001122797722928226,
+        "characters": null
+      },
+      {
+        "text": "ਸਮਝਾ।",
+        "start": 3.399,
+        "end": 4.539,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.29030834446894005,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "HN2NmqoloHpP8e9ZB4YN",
+    "entities": null,
+    "audio_duration_secs": 5.6533125
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clip_id": "13_krpuram_phone_hinglish",
+  "filename": "13_krpuram_phone_hinglish.m4a",
+  "model": "sarvam",
+  "transcript": "हाँ हाँ के आर पुरम रेलवे स्टेशन के पास वहाँ रुको",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1144.926500506699,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_52390532-e4e4-4a45-a8d6-84d0e5bac188",
+    "transcript": "हाँ हाँ के आर पुरम रेलवे स्टेशन के पास वहाँ रुको",
+    "language_code": "hi-IN"
+  }
+}

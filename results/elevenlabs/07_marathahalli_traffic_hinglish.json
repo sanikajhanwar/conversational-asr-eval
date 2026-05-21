@@ -1,0 +1,238 @@
+{
+  "clip_id": "07_marathahalli_traffic_hinglish",
+  "filename": "07_marathahalli_traffic_hinglish.m4a",
+  "model": "elevenlabs",
+  "transcript": "हाँ माराथली ब्रिज के नीचे उतर जाना। वहां से ऑटो मिल जाएगा। ",
+  "language_detected": "hin",
+  "latency_total_ms": 2860.3861005976796,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "hin",
+    "language_probability": 0.9671263694763184,
+    "text": "हाँ माराथली ब्रिज के नीचे उतर जाना। वहां से ऑटो मिल जाएगा। ",
+    "words": [
+      {
+        "text": "हाँ",
+        "start": 3.199,
+        "end": 3.419,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.5511777698993683,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.419,
+        "end": 3.5,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.073225975036621,
+        "characters": null
+      },
+      {
+        "text": "माराथली",
+        "start": 3.5,
+        "end": 4.159,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.2202150158783687,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.159,
+        "end": 4.199,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -8.189342770492658e-05,
+        "characters": null
+      },
+      {
+        "text": "ब्रिज",
+        "start": 4.199,
+        "end": 4.42,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00024321402452187613,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.42,
+        "end": 4.519,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00012933371181134135,
+        "characters": null
+      },
+      {
+        "text": "के",
+        "start": 4.519,
+        "end": 4.599,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -7.485914647986647e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.599,
+        "end": 4.679,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -2.777537883957848e-05,
+        "characters": null
+      },
+      {
+        "text": "नीचे",
+        "start": 4.679,
+        "end": 4.92,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00024125679192366078,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.92,
+        "end": 4.96,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -8.95221673999913e-05,
+        "characters": null
+      },
+      {
+        "text": "उतर",
+        "start": 4.96,
+        "end": 5.179,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0005055437456273163,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.179,
+        "end": 5.259,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.3828182090946939e-05,
+        "characters": null
+      },
+      {
+        "text": "जाना।",
+        "start": 5.259,
+        "end": 5.599,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.02325005069706094,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.599,
+        "end": 5.639,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00020930961181875318,
+        "characters": null
+      },
+      {
+        "text": "वहां",
+        "start": 5.639,
+        "end": 5.839,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.005009937325667124,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.839,
+        "end": 5.919,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -8.940656698541716e-06,
+        "characters": null
+      },
+      {
+        "text": "से",
+        "start": 5.92,
+        "end": 6.019,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -1.2040060937579256e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.019,
+        "end": 6.059,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0019031523261219263,
+        "characters": null
+      },
+      {
+        "text": "ऑटो",
+        "start": 6.059,
+        "end": 6.299,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0006575897089836266,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.299,
+        "end": 6.379,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -7.748573807475623e-06,
+        "characters": null
+      },
+      {
+        "text": "मिल",
+        "start": 6.379,
+        "end": 6.5,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -1.3947379860231498e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 6.5,
+        "end": 6.579,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0003321811091154814,
+        "characters": null
+      },
+      {
+        "text": "जाएगा।",
+        "start": 6.579,
+        "end": 7.079,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.02804209237607817,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 7.079,
+        "end": 7.079,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": 0.0,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "afbihGiMhmdktJmzyztm",
+    "entities": null,
+    "audio_duration_secs": 13.2053125
+  }
+}

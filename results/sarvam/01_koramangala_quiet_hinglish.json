@@ -1,0 +1,15 @@
+{
+  "clip_id": "01_koramangala_quiet_hinglish",
+  "filename": "01_koramangala_quiet_hinglish.m4a",
+  "model": "sarvam",
+  "transcript": "हाँ भैया कोरमंगला में रहती हूँ फिफ्थ ब्लॉक में",
+  "language_detected": "hi-IN",
+  "latency_total_ms": 1244.9620999395847,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "request_id": "20260521_dc44dfdf-73e4-4710-a48a-af6f2c6927ad",
+    "transcript": "हाँ भैया कोरमंगला में रहती हूँ फिफ्थ ब्लॉक में",
+    "language_code": "hi-IN"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "clip_id": "06_whitefield_traffic_english",
+  "filename": "06_whitefield_traffic_english.m4a",
+  "model": "elevenlabs",
+  "transcript": "I work in Whitefield, near the IPTL main road.",
+  "language_detected": "eng",
+  "latency_total_ms": 1487.9850000143051,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "language_code": "eng",
+    "language_probability": 0.9910389184951782,
+    "text": "I work in Whitefield, near the IPTL main road.",
+    "words": [
+      {
+        "text": "I",
+        "start": 1.839,
+        "end": 2.24,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.005182522814720869,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.24,
+        "end": 2.259,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0007325111655518413,
+        "characters": null
+      },
+      {
+        "text": "work",
+        "start": 2.259,
+        "end": 2.639,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0007325111655518413,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.639,
+        "end": 2.699,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -5.364403477869928e-06,
+        "characters": null
+      },
+      {
+        "text": "in",
+        "start": 2.7,
+        "end": 2.839,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -5.364403477869928e-06,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 2.839,
+        "end": 3.24,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.015788545832037926,
+        "characters": null
+      },
+      {
+        "text": "Whitefield,",
+        "start": 3.24,
+        "end": 3.919,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.011720275950872085,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 3.919,
+        "end": 4.139,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.0001662831346038729,
+        "characters": null
+      },
+      {
+        "text": "near",
+        "start": 4.139,
+        "end": 4.38,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0001662831346038729,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.38,
+        "end": 4.44,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -1.8954096958623268e-05,
+        "characters": null
+      },
+      {
+        "text": "the",
+        "start": 4.44,
+        "end": 4.5,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -1.8954096958623268e-05,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 4.5,
+        "end": 4.579,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.012438696809113026,
+        "characters": null
+      },
+      {
+        "text": "IPTL",
+        "start": 4.579,
+        "end": 5.059,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.009334059148386586,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.059,
+        "end": 5.159,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -0.00012790338951162994,
+        "characters": null
+      },
+      {
+        "text": "main",
+        "start": 5.159,
+        "end": 5.319,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.00012790338951162994,
+        "characters": null
+      },
+      {
+        "text": " ",
+        "start": 5.319,
+        "end": 5.419,
+        "type": "spacing",
+        "speaker_id": null,
+        "logprob": -3.909988299710676e-05,
+        "characters": null
+      },
+      {
+        "text": "road.",
+        "start": 5.42,
+        "end": 5.739,
+        "type": "word",
+        "speaker_id": null,
+        "logprob": -0.0002711757959332317,
+        "characters": null
+      }
+    ],
+    "channel_index": null,
+    "additional_formats": null,
+    "transcription_id": "iiN5s2swPdXWl2sMXCrk",
+    "entities": null,
+    "audio_duration_secs": 9.3226875
+  }
+}
