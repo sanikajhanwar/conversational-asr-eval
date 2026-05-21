@@ -1,8 +1,10 @@
-# ASR Shootout — Vahan.ai Intern Assignment
+# conversational-asr-eval
 
-Benchmark of 4 ASR systems on 20 self-recorded clips of Bangalore locality names spoken naturally in Hindi/Hinglish/Kannada, plus FLEURS-Hindi as a clean-audio baseline.
+An evaluation of ASR systems for accurate entity extraction (Bangalore localities) in real-world Hindi/Hinglish audio.
 
-**Models:** Deepgram (baseline) · OpenAI Whisper · Sarvam AI · ElevenLabs Scribe
+**Models benchmarked:** Deepgram (baseline) · OpenAI Whisper · Sarvam AI · ElevenLabs Scribe
+**Primary dataset:** 20 self-recorded clips spanning quiet / traffic / phone-call / whispered conditions.
+**Secondary dataset:** FLEURS-Hindi (clean-speech reference, ~50 clips).
 
 ---
 
@@ -52,23 +54,16 @@ Outputs land in `results/` (per-model JSON transcripts) and `charts/` (plots).
 
 ## What's being measured
 
-| Metric                         | Why it matters                                                |
-|--------------------------------|---------------------------------------------------------------|
-| Word Error Rate (WER)          | Industry-standard ASR baseline                                |
-| Locality exact match           | Did the locality name come through character-perfect?         |
-| Locality fuzzy match (Lev ≥0.85) | Forgives minor spelling errors ("Byatarayanpura")           |
-| Locality phonetic match (Metaphone) | Forgives transliteration drift                          |
-| Latency (total + first-byte)   | Matters for live phone interactions                           |
-| Cost @ scale                   | Production economics                                          |
+| Metric                              | Why it matters                                        |
+|-------------------------------------|-------------------------------------------------------|
+| Word Error Rate (WER)               | Industry-standard ASR baseline                        |
+| Locality exact match                | Did the locality name come through character-perfect? |
+| Locality fuzzy match (Lev ≥0.85)    | Forgives minor spelling errors ("Byatarayanpura")     |
+| Locality phonetic match (Metaphone) | Forgives transliteration drift                        |
+| Latency (total + first-byte)        | Matters for live phone interactions                   |
+| Cost @ scale                        | Production economics                                  |
 
-Sliced by **audio condition** (quiet / traffic / phone / whispered) and **language** (Hindi / Hinglish / English / Kannada-mixed).
-
----
-
-## Datasets
-
-- **Primary:** 20 self-recorded clips in [recordings/](recordings/). See [recording_script.md](recording_script.md) for sentence-level detail.
-- **Secondary:** FLEURS-Hindi (~50 clips, downloaded at runtime from HuggingFace) — clean-speech reference.
+Sliced by **audio condition** (quiet / traffic / phone / whispered-rushed) and **language** (Hindi / Hinglish / English / Kannada-mixed).
 
 ---
 
@@ -76,4 +71,4 @@ Sliced by **audio condition** (quiet / traffic / phone / whispered) and **langua
 
 - Audio is `.m4a` (iOS/Android default). All 4 models accept m4a directly; no conversion needed.
 - Whisper large-v3 runs on Colab free tier (T4 GPU). See [notebooks/whisper_colab.ipynb](notebooks/whisper_colab.ipynb).
-- API rate limits handled with retries + sleeps; full run takes ~5-10 minutes on Day 3.
+- API rate limits handled with retries + sleeps; full run takes ~5-10 minutes end-to-end.
