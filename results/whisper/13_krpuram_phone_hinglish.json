@@ -1,0 +1,20 @@
+{
+  "clip_id": "13_krpuram_phone_hinglish",
+  "filename": "13_krpuram_phone_hinglish.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "हाँ हाँ के यारपुरम रिल्वी स्टेशन के पास वहाँ रुको",
+  "language_detected": "hi",
+  "latency_total_ms": 3658.8023009999233,
+  "raw_response": {
+    "text": " हाँ हाँ के यारपुरम रिल्वी स्टेशन के पास वहाँ रुको",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 3.92,
+        "text": " हाँ हाँ के यारपुरम रिल्वी स्टेशन के पास वहाँ रुको"
+      }
+    ]
+  }
+}

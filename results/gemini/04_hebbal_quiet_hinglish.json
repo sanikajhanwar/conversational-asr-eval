@@ -1,0 +1,18 @@
+{
+  "clip_id": "04_hebbal_quiet_hinglish",
+  "filename": "04_hebbal_quiet_hinglish.m4a",
+  "model": "gemini",
+  "transcript": "जॉब के लिए हैदराबाद से आना पड़ेगा ट्रैफिक कैसा है",
+  "language_detected": null,
+  "latency_total_ms": 12658.655400387943,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "जॉब के लिए हैदराबाद से आना पड़ेगा ट्रैफिक कैसा है",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 231,
+      "output_tokens": 12
+    }
+  }
+}

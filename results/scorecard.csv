@@ -1,61 +1,101 @@
-model,clip_id,locality,condition,language,transcript,latency_ms,error,wer,locality_exact,locality_fuzzy,locality_fuzzy_score,locality_phonetic,matched_substring
-deepgram,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,हाँ भैया गोरमंगला में रहती हूँ fifth block में,4028.762400150299,,1.2222222222222223,False,False,12.5,False,block
-deepgram,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,मेरा घर इंद्रानगर में है metro station के पास.,2700.7352001965046,,1.3333333333333333,False,False,25.0,False,metro station
-deepgram,03_hsrlayout_quiet_english,HSR Layout,quiet,english,Yes so I stay in H S R Layout Sector 2,2727.1523997187614,,0.4444444444444444,True,True,90.0,True,s r layout
-deepgram,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,Job के लिए हिब्बाल से आना पड़ेगा. Traffic कैसा है?,2899.1954997181892,,1.4,False,False,22.22222222222222,False,job
-deepgram,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,"Sir, मेरा address ब्याता रहना पूरा है, पास में bus stand है.",3425.546900369227,,1.3,False,False,33.333333333333336,False,bus stand
-deepgram,06_whitefield_traffic_english,Whitefield,traffic,english,"I work in Whitefield, near the IPTL Main Road.",3473.86210039258,,0.1111111111111111,True,True,100.0,True,whitefield
-deepgram,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,"हां, मारा खली bridge के नीचे उतर जाना, वहां से auto मिल जाएगा.",3711.707300506532,,1.3333333333333333,False,False,25.0,False,auto
-deepgram,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,मैं इलेक्ट्रोनिक city phase 1 में रहती हूँ इन पोसिस के पीछे.,2883.761699311435,,1.5454545454545454,False,False,47.61904761904761,False,क city
-deepgram,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,Silk road signal पे फंसाओ यार 20 minute से.,2968.096900731325,,0.7272727272727273,False,False,84.21052631578947,False,silk road
-deepgram,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,"मेरा area का नाम कद्दू कौनतन अली है, KG हल्दी बोलते हैं लोग.",2836.3465992733836,,1.6363636363636365,False,False,22.22222222222222,False,kg
-deepgram,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,"Sir, मेरा नाम सानका है. जय नगर fourth block से बात कर रहे हो.",2928.515600040555,,1.1428571428571428,False,False,16.666666666666664,False,sir
-deepgram,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,बीटीएम लेआउट में flat देखना है. क्या आप free हैं?,2369.5338992401958,,1.2727272727272727,False,False,50.0,False,म flat
-deepgram,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,"हाँ हाँ, care पुरम railway station के पास. वहाँ रुको.",2467.779799364507,,1.1,False,False,33.333333333333336,False,रम railway
-deepgram,14_bellandur_phone_english,Bellandur,phone,english,I am currently in बेलेंदूर. Can the delivery come here by six?,2431.4705999568105,,0.5,False,False,35.29411764705882,False,delivery
-deepgram,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,"Madam, मैं हैसारा गट्टा से हूँ गाँव की तरफ.",3481.5407004207373,,1.5,False,False,23.529411764705888,False,madam
-deepgram,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,नानू येलंका दिल्ली इद्देन ए airport हटते रहा.,3316.8695997446775,,2.8,False,False,12.5,False,airport
-deepgram,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बताओ बनाशांखरी से मैचिस्टिक कितना kilometer है?,4739.177699200809,,2.111111111111111,False,False,19.047619047619047,False,kilometer
-deepgram,18_majestic_whisper_hindi,Majestic,whisper,hindi,मैजिस्टिक बस के अंदर खड़ा हूं. मिल जाओगे?,2438.4535998106003,,1.6666666666666667,False,False,0.0,False,म
-deepgram,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,राजा राजेश्वरी नगर में interview है. Address भेज रहा हूँ अभी.,2268.5031993314624,,1.5555555555555556,False,False,30.76923076923077,False,address
-deepgram,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,थल्लगटपूरा side nice road के पास समझा.,2252.3413002490997,,1.0,False,False,21.052631578947366,False,road
-sarvam,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,हाँ भैया कोरमंगला में रहती हूँ फिफ्थ ब्लॉक में,1244.9620999395847,,1.7777777777777777,False,False,0.0,False,ह
-sarvam,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,मेरा घर इंदिरा नगर में है मेट्रो स्टेशन के पास,1203.393300063908,,2.0,False,False,0.0,False,म
-sarvam,03_hsrlayout_quiet_english,HSR Layout,quiet,english,"Yes, so I stay in HSR layout, sector two.",1192.3902994021773,,0.2222222222222222,True,True,100.0,True,hsr layout
-sarvam,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,जॉब के लिए हिबाल से आना पड़ेगा ट्रैफ़िक कैसा है,1184.014500118792,,1.9,False,False,0.0,False,ज
-sarvam,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,सर मेरा एड्रेस बेयातार रयनापुरा है पास में बस स्टैंड है,1425.4050999879837,,2.2,False,False,0.0,False,सर
-sarvam,06_whitefield_traffic_english,Whitefield,traffic,english,I work in Whitefield near the IPTL main road.,1152.2685997188091,,0.1111111111111111,True,True,100.0,True,whitefield
-sarvam,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,"हाँ, माराथली ब्रिज के नीचे उतर जाना, वहाँ से ऑटो मिल जाएगा।",1292.5503002479672,,1.6666666666666667,False,False,0.0,False,ह
-sarvam,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,मैं इलेक्ट्रॉनिक सिटी फ़ेज़ वन में रहती हूँ इंफोसिस के पीछे।,1241.6409999132156,,2.0,False,False,11.111111111111116,False,क ट
-sarvam,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,"सिल्क वो सिग्नल पे फंसा हूं यार, 20 मिनट से।",1413.357300683856,,1.4545454545454546,False,False,15.384615384615385,False,स ल
-sarvam,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,"मेरा एरिया का नाम कद्दू गोंदन अली है, केजी अली बोलते हैं लोग।",1196.6491006314754,,1.9090909090909092,False,False,0.0,False,म
-sarvam,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,सर मेरा नाम सानका है जयनगर फोर्थ ब्लॉक से बात कर रही हूँ,1152.3152999579906,,1.5,False,False,0.0,False,सर
-sarvam,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,बी टी एम लेआउट में फ्लैट देखना है क्या आप फ्री हैं,1137.6817002892494,,1.6363636363636365,False,False,15.384615384615385,False,ब ट
-sarvam,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,हाँ हाँ के आर पुरम रेलवे स्टेशन के पास वहाँ रुको,1144.926500506699,,1.7,False,False,18.181818181818176,False,ह ह
-sarvam,14_bellandur_phone_english,Bellandur,phone,english,I am currently in Bellandur. Can the delivery come here by 6?,1260.2506997063756,,0.08333333333333333,True,True,100.0,True,bellandur
-sarvam,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,मैडम मैं हिसारागट्टा से हूँ गाँव की तरफ़,1165.22999946028,,1.75,False,False,0.0,False,म
-sarvam,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,ನಾನು ಯಲಂಕಾ ಡೆಲ್ಲಿ ಇದ್ದೇನೆ ಏರ್ಪೋರ್ಟ್ ಹತ್ತಿರ,1188.8040993362665,,3.4,False,False,0.0,False,ನ
-sarvam,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बता बना शांखरी से मैजेस्टिक कितना किलोमीटर है,1194.8033003136516,,2.3333333333333335,False,False,0.0,False,य
-sarvam,18_majestic_whisper_hindi,Majestic,whisper,hindi,मैजेस्टिक बस के अंदर खड़ा हूँ मिल जाओगे,1194.215800613165,,1.6666666666666667,False,False,0.0,False,म
-sarvam,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,राजा राजेश्वरी नगर में इंटरव्यू है एड्रेस भेज रहा हूँ अभी,1087.6427004113793,,2.2222222222222223,False,False,0.0,False,र
-sarvam,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,"थल्लगटपुरा साइड, नाइस रोड के पास, समझा?",1125.2944003790617,,1.8571428571428572,False,False,0.0,False,थल
-elevenlabs,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,"हां भैया, गौरमंगला में रहती हूं। फिफ्थ लॉक में।",1797.2618006169796,,1.6666666666666667,False,False,0.0,False,ह
-elevenlabs,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,"मेरा घर इंदिरानगर में है, मेट्रो स्टेशन के पास।",1296.3841008022428,,2.0,False,False,0.0,False,म
-elevenlabs,03_hsrlayout_quiet_english,HSR Layout,quiet,english,"Yes, so I stay in a Chisso layout sector two.",1221.6819999739528,,0.4444444444444444,False,False,78.26086956521739,False,chisso layout
-elevenlabs,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,جوب کے لئے ہبال سے آنا پڑے گا؟ ٹریفک کیسا ہے؟,1705.0511995330453,,1.3,False,False,0.0,False,جوب
-elevenlabs,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,"सर, मेरा एड्रेस ब्यात्तारायानपुरा है। पास में बस स्टैंड है।",1450.7877994328737,,2.3,False,False,0.0,False,सर
-elevenlabs,06_whitefield_traffic_english,Whitefield,traffic,english,"I work in Whitefield, near the IPTL main road.",1487.9850000143051,,0.1111111111111111,True,True,100.0,True,whitefield
-elevenlabs,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,हाँ माराथली ब्रिज के नीचे उतर जाना। वहां से ऑटो मिल जाएगा। ,2860.3861005976796,,1.6666666666666667,False,False,0.0,False,ह
-elevenlabs,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,मैं इलेक्ट्रॉनिक सिटी फेज वन में रहती हूं और इंफोसिस के पीछे।,1771.0449006408453,,2.090909090909091,False,False,11.111111111111116,False,क ट
-elevenlabs,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,"सेल्क ब्रोड, सिग्नल पे फंसा हूं यार ट्वेंटी मिनट्स से।",2256.0697002336383,,2.0,False,False,15.384615384615385,False,स ल
-elevenlabs,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,मेरा एरिया का नाम कद्दू कोंदन अली है। केजी हल्ली बोलते हैं लोग।,2235.7909996062517,,2.0,False,False,0.0,False,म
-elevenlabs,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,"सर, अअअ मेरा नाम सानुका है, जयानगर फोर्थ ब्लॉक से बात कर रही हूं।",2380.0181997939944,,1.7142857142857142,False,False,0.0,False,सर
-elevenlabs,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,बीटीएम लेआउट में फ्लैट देखना है। क्या आप फ्री हैं?,1528.7584997713566,,1.6363636363636365,False,False,15.384615384615385,False,ब ट
-elevenlabs,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,"हां हां, केआर पुरम रेलवे स्टेशन के पास वहां रुको।",1312.6525999978185,,1.7,False,False,18.181818181818176,False,ह ह
-elevenlabs,14_bellandur_phone_english,Bellandur,phone,english,"I am currently in Bellandur, uh, can the delivery come here by six?",1611.6180000826716,,0.25,True,True,100.0,True,bellandur
-elevenlabs,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,"मैडम, मैं हिसारा गड्ढा से हूं, गांव की तरफ।",2002.2227000445127,,1.75,False,False,0.0,False,म
-elevenlabs,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,ನಾನು ಯಲಂಕಾಡಲಿ ಇದ್ದೇನೆ. ಏರ್ ಪೋರ್ಟ್ ಹತ್ತಿರ.,2503.696800209582,,3.0,False,False,0.0,False,ನ
-elevenlabs,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बता बनाशाखरी से मैजेस्टिक कितना किलोमीटर है?,1714.7858999669552,,2.3333333333333335,False,False,0.0,False,य
-elevenlabs,18_majestic_whisper_hindi,Majestic,whisper,hindi,ਮੈਜੇਸਟਿਕ 10 ਕੇ ਅੰਦਰ ਖੜਾ ਹੋ ਮਿਲ ਜਾਓਗੇ।,1939.3966002389789,,1.5555555555555556,False,False,0.0,False,ਮ
-elevenlabs,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,"राजा राजेश्वरी नगर में इंटरव्यू है, एड्रेस भेज रहा हूं अभी।",2043.8428996130824,,2.2222222222222223,False,False,0.0,False,र
-elevenlabs,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,"ਥੱਲ ਗੱਟ ਪੂਰਾ ਸਹਿਦ, ਨਈਸ ਰੋਡ ਕੇ ਪਾਸ, ਸਮਝਾ।",1799.2922998964787,,2.142857142857143,False,False,0.0,False,ਥ
+model,clip_id,locality,condition,language,transcript,latency_ms,error,wer,locality_exact,locality_fuzzy,locality_fuzzy_score,locality_phonetic,locality_word_level,locality_recovered,matched_substring
+deepgram,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,हाँ भैया गोरमंगला में रहती हूँ fifth block में,4028.762400150299,,0.8888888888888888,False,True,81.81818181818181,True,True,True,partial_ratio
+deepgram,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,मेरा घर इंद्रानगर में है metro station के पास.,2700.7352001965046,,0.4444444444444444,False,True,81.81818181818181,False,True,True,partial_ratio
+deepgram,03_hsrlayout_quiet_english,HSR Layout,quiet,english,Yes so I stay in H S R Layout Sector 2,2727.1523997187614,,0.4444444444444444,True,True,100.0,True,True,True,partial_ratio_nospace
+deepgram,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,Job के लिए हिब्बाल से आना पड़ेगा. Traffic कैसा है?,2899.1954997181892,,0.4,False,True,83.33333333333334,True,True,True,partial_ratio
+deepgram,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,"Sir, मेरा address ब्याता रहना पूरा है, पास में bus stand है.",3425.546900369227,,0.5,False,True,93.33333333333333,True,True,True,partial_ratio_nospace
+deepgram,06_whitefield_traffic_english,Whitefield,traffic,english,"I work in Whitefield, near the IPTL Main Road.",3473.86210039258,,0.1111111111111111,True,True,100.0,True,True,True,partial_ratio
+deepgram,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,"हां, मारा खली bridge के नीचे उतर जाना, वहां से auto मिल जाएगा.",3711.707300506532,,0.75,False,False,66.66666666666667,False,True,True,partial_ratio
+deepgram,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,मैं इलेक्ट्रोनिक city phase 1 में रहती हूँ इन पोसिस के पीछे.,2883.761699311435,,0.7272727272727273,False,True,85.5,False,True,True,WRatio
+deepgram,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,Silk road signal पे फंसाओ यार 20 minute से.,2968.096900731325,,0.45454545454545453,False,True,85.5,True,True,True,WRatio
+deepgram,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,"मेरा area का नाम कद्दू कौनतन अली है, KG हल्दी बोलते हैं लोग.",2836.3465992733836,,0.7272727272727273,True,False,62.5,True,True,True,partial_ratio
+deepgram,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,"Sir, मेरा नाम सानका है. जय नगर fourth block से बात कर रहे हो.",2928.515600040555,,0.6428571428571429,True,True,100.0,True,True,True,partial_ratio_nospace
+deepgram,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,बीटीएम लेआउट में flat देखना है. क्या आप free हैं?,2369.5338992401958,,0.6363636363636364,False,False,60.0,True,True,True,partial_ratio
+deepgram,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,"हाँ हाँ, care पुरम railway station के पास. वहाँ रुको.",2467.779799364507,,0.6,False,True,87.5,True,True,True,partial_ratio
+deepgram,14_bellandur_phone_english,Bellandur,phone,english,I am currently in बेलेंदूर. Can the delivery come here by six?,2431.4705999568105,,0.25,False,False,66.66666666666667,True,True,True,partial_ratio
+deepgram,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,"Madam, मैं हैसारा गट्टा से हूँ गाँव की तरफ.",3481.5407004207373,,0.875,False,True,83.33333333333334,True,True,True,partial_ratio_nospace
+deepgram,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,नानू येलंका दिल्ली इद्देन ए airport हटते रहा.,3316.8695997446775,,1.4,False,False,66.66666666666667,False,True,True,partial_ratio
+deepgram,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बताओ बनाशांखरी से मैचिस्टिक कितना kilometer है?,4739.177699200809,,0.6666666666666666,False,False,75.0,False,True,True,partial_ratio
+deepgram,18_majestic_whisper_hindi,Majestic,whisper,hindi,मैजिस्टिक बस के अंदर खड़ा हूं. मिल जाओगे?,2438.4535998106003,,0.8888888888888888,False,False,75.0,True,True,True,partial_ratio
+deepgram,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,राजा राजेश्वरी नगर में interview है. Address भेज रहा हूँ अभी.,2268.5031993314624,,0.6666666666666666,False,True,86.48648648648648,False,True,True,partial_ratio_nospace
+deepgram,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,थल्लगटपूरा side nice road के पास समझा.,2252.3413002490997,,0.42857142857142855,False,True,89.65517241379311,True,True,True,partial_ratio
+elevenlabs,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,"हां भैया, गौरमंगला में रहती हूं। फिफ्थ लॉक में।",1797.2618006169796,,0.8888888888888888,False,False,72.72727272727273,True,True,True,partial_ratio
+elevenlabs,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,"मेरा घर इंदिरानगर में है, मेट्रो स्टेशन के पास।",1296.3841008022428,,0.5555555555555556,False,True,90.9090909090909,False,True,True,partial_ratio
+elevenlabs,03_hsrlayout_quiet_english,HSR Layout,quiet,english,"Yes, so I stay in a Chisso layout sector two.",1221.6819999739528,,0.4444444444444444,False,True,85.5,False,True,True,WRatio
+elevenlabs,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,جوب کے لئے ہبال سے آنا پڑے گا؟ ٹریفک کیسا ہے؟,1705.0511995330453,,1.3,False,False,0.0,False,False,False,partial_ratio
+elevenlabs,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,"सर, मेरा एड्रेस ब्यात्तारायानपुरा है। पास में बस स्टैंड है।",1450.7877994328737,,0.7,False,True,93.33333333333333,True,True,True,partial_ratio
+elevenlabs,06_whitefield_traffic_english,Whitefield,traffic,english,"I work in Whitefield, near the IPTL main road.",1487.9850000143051,,0.1111111111111111,True,True,100.0,True,True,True,partial_ratio
+elevenlabs,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,हाँ माराथली ब्रिज के नीचे उतर जाना। वहां से ऑटो मिल जाएगा। ,2860.3861005976796,,0.8333333333333334,False,False,78.26086956521739,True,True,True,partial_ratio_nospace
+elevenlabs,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,मैं इलेक्ट्रॉनिक सिटी फेज वन में रहती हूं और इंफोसिस के पीछे।,1771.0449006408453,,1.0,False,False,66.66666666666667,False,True,True,partial_ratio
+elevenlabs,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,"सेल्क ब्रोड, सिग्नल पे फंसा हूं यार ट्वेंटी मिनट्स से।",2256.0697002336383,,0.8181818181818182,False,False,70.0,True,True,True,partial_ratio
+elevenlabs,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,मेरा एरिया का नाम कद्दू कोंदन अली है। केजी हल्ली बोलते हैं लोग।,2235.7909996062517,,0.8181818181818182,False,False,75.0,False,True,True,partial_ratio_nospace
+elevenlabs,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,"सर, अअअ मेरा नाम सानुका है, जयानगर फोर्थ ब्लॉक से बात कर रही हूं।",2380.0181997939944,,0.8571428571428571,True,True,100.0,True,True,True,partial_ratio
+elevenlabs,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,बीटीएम लेआउट में फ्लैट देखना है। क्या आप फ्री हैं?,1528.7584997713566,,0.8181818181818182,False,False,60.0,True,True,True,partial_ratio
+elevenlabs,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,"हां हां, केआर पुरम रेलवे स्टेशन के पास वहां रुको।",1312.6525999978185,,0.8,False,True,87.5,True,True,True,partial_ratio
+elevenlabs,14_bellandur_phone_english,Bellandur,phone,english,"I am currently in Bellandur, uh, can the delivery come here by six?",1611.6180000826716,,0.25,True,True,100.0,True,True,True,partial_ratio
+elevenlabs,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,"मैडम, मैं हिसारा गड्ढा से हूं, गांव की तरफ।",2002.2227000445127,,0.875,False,False,66.66666666666667,True,True,True,partial_ratio_nospace
+elevenlabs,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,ನಾನು ಯಲಂಕಾಡಲಿ ಇದ್ದೇನೆ. ಏರ್ ಪೋರ್ಟ್ ಹತ್ತಿರ.,2503.696800209582,,1.0,False,False,55.55555555555556,False,False,False,partial_ratio
+elevenlabs,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बता बनाशाखरी से मैजेस्टिक कितना किलोमीटर है?,1714.7858999669552,,0.5555555555555556,False,False,75.0,False,True,True,partial_ratio
+elevenlabs,18_majestic_whisper_hindi,Majestic,whisper,hindi,ਮੈਜੇਸਟਿਕ 10 ਕੇ ਅੰਦਰ ਖੜਾ ਹੋ ਮਿਲ ਜਾਓਗੇ।,1939.3966002389789,,0.8888888888888888,False,False,75.0,True,True,True,partial_ratio
+elevenlabs,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,"राजा राजेश्वरी नगर में इंटरव्यू है, एड्रेस भेज रहा हूं अभी।",2043.8428996130824,,0.8888888888888888,False,True,86.48648648648648,False,True,True,partial_ratio_nospace
+elevenlabs,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,"ਥੱਲ ਗੱਟ ਪੂਰਾ ਸਹਿਦ, ਨਈਸ ਰੋਡ ਕੇ ਪਾਸ, ਸਮਝਾ।",1799.2922998964787,,1.1428571428571428,False,True,93.33333333333333,True,True,True,partial_ratio_nospace
+gemini,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,हाँ भैया Koramangala में रहती हूं fifth block में,7869.640399701893,,0.7777777777777778,True,True,100.0,True,True,True,partial_ratio
+gemini,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,मेरा घर इंदिरा नगर में है मेट्रो स्टेशन के पास,5916.28469992429,,0.6666666666666666,False,True,90.9090909090909,False,True,True,partial_ratio_nospace
+gemini,03_hsrlayout_quiet_english,HSR Layout,quiet,english,"Yes, so I'll stay in HSR Layout Sector 2.",5639.051999896765,,0.2222222222222222,True,True,100.0,True,True,True,partial_ratio
+gemini,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,जॉब के लिए हैदराबाद से आना पड़ेगा ट्रैफिक कैसा है,12658.655400387943,,0.5,False,False,50.0,False,True,True,partial_ratio_nospace
+gemini,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,सर मेरा एड्रेस ब्यातरायनपुरा है। पास में बस स्टैंड है।,10047.163999639452,,0.6,True,True,100.0,True,True,True,partial_ratio
+gemini,06_whitefield_traffic_english,Whitefield,traffic,english,I work in Whitefield near the IPTL main road.,7721.98829986155,,0.1111111111111111,True,True,100.0,True,True,True,partial_ratio
+gemini,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,"हाँ, माराथली ब्रिज के नीचे उतर जाना वहां से ऑटो मिल जाएगा।",6868.067899718881,,0.8333333333333334,False,False,78.26086956521739,True,True,True,partial_ratio_nospace
+gemini,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,मैं इलेक्ट्रॉनिक सिटी फेज़ वन में रहती हूं Infosys के पीछे।,5728.7363996729255,,0.8181818181818182,False,False,66.66666666666667,False,True,True,partial_ratio
+gemini,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,Silkwood signal पे फंसा हूं यार 20 minutes से।,7439.543600194156,,0.6363636363636364,False,False,70.58823529411764,True,True,True,partial_ratio_nospace
+gemini,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,मेरा एरिया का नाम कद्दू गोंदा नल्ली है। के जी हल्ली बोलते हैं लोग।,18068.770800717175,,0.9090909090909091,False,True,81.25,False,True,True,partial_ratio_nospace
+gemini,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,सर मेरा नाम सानिका है। जयनगर फोर्थ ब्लॉक से बात कर रही हूं।,5245.664799585938,,0.7857142857142857,True,True,100.0,True,True,True,partial_ratio
+gemini,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,BTM लेआउट में फ्लैट देखना है। क्या आप फ्री हैं?,6498.927500098944,,0.7272727272727273,True,True,85.5,True,True,True,WRatio
+gemini,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,हा हा के आर पुरम रेलवे स्टेशन के पास वहां रुको।,8641.155799850821,,0.9,False,True,87.5,True,True,True,partial_ratio
+gemini,14_bellandur_phone_english,Bellandur,phone,english,I am currently in Belandur. Can the delivery come here by six?,8264.733499847353,,0.25,True,True,88.88888888888889,True,True,True,partial_ratio
+gemini,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,मैडम मैं हैसारा गट्टा से हूं गांव की तरफ,7664.991199970245,,0.875,False,True,83.33333333333334,True,True,True,partial_ratio_nospace
+gemini,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,ನಾನು ಯಲಂಕ ಡಲ್ಲಿ ಇದ್ದೇನೆ ಏರ್ಪೋರ್ಟ್ ಹತ್ತಿರ,7392.387400381267,,1.0,False,False,55.55555555555556,False,False,False,partial_ratio
+gemini,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बता बना शंखरी से Majestic कितना किलोमीटर है?,5927.8702000156045,,0.5555555555555556,False,False,75.0,False,True,True,partial_ratio_nospace
+gemini,18_majestic_whisper_hindi,Majestic,whisper,hindi,मैजेस्टिक बस के अंदर खड़ा हूँ मिल जाओगे,9075.386099517345,,0.8888888888888888,False,True,87.5,True,True,True,partial_ratio
+gemini,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,00:00 राजा राजेश्वरी नगर में इंटरव्यू है 00:01 एड्रेस भेज रहा हूँ अभी 00:05,12724.990000016987,,1.5555555555555556,False,True,84.21052631578947,False,True,True,partial_ratio_nospace
+gemini,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,टल्लागटा पूरा साइड नाइस रोड के पास समझा,8508.430200628936,,1.0,False,True,85.71428571428572,True,True,True,partial_ratio_nospace
+sarvam,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,हाँ भैया कोरमंगला में रहती हूँ फिफ्थ ब्लॉक में,1244.9620999395847,,0.8888888888888888,False,True,90.9090909090909,True,True,True,partial_ratio
+sarvam,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,मेरा घर इंदिरा नगर में है मेट्रो स्टेशन के पास,1203.393300063908,,0.6666666666666666,False,True,90.9090909090909,False,True,True,partial_ratio_nospace
+sarvam,03_hsrlayout_quiet_english,HSR Layout,quiet,english,"Yes, so I stay in HSR layout, sector two.",1192.3902994021773,,0.2222222222222222,True,True,100.0,True,True,True,partial_ratio
+sarvam,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,जॉब के लिए हिबाल से आना पड़ेगा ट्रैफ़िक कैसा है,1184.014500118792,,0.5,False,False,66.66666666666667,True,True,True,partial_ratio
+sarvam,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,सर मेरा एड्रेस बेयातार रयनापुरा है पास में बस स्टैंड है,1425.4050999879837,,0.8,False,True,86.66666666666667,True,True,True,partial_ratio_nospace
+sarvam,06_whitefield_traffic_english,Whitefield,traffic,english,I work in Whitefield near the IPTL main road.,1152.2685997188091,,0.1111111111111111,True,True,100.0,True,True,True,partial_ratio
+sarvam,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,"हाँ, माराथली ब्रिज के नीचे उतर जाना, वहाँ से ऑटो मिल जाएगा।",1292.5503002479672,,0.8333333333333334,False,False,78.26086956521739,True,True,True,partial_ratio_nospace
+sarvam,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,मैं इलेक्ट्रॉनिक सिटी फ़ेज़ वन में रहती हूँ इंफोसिस के पीछे।,1241.6409999132156,,0.9090909090909091,False,False,66.66666666666667,False,True,True,partial_ratio
+sarvam,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,"सिल्क वो सिग्नल पे फंसा हूं यार, 20 मिनट से।",1413.357300683856,,0.7272727272727273,False,False,71.42857142857143,False,True,True,partial_ratio_nospace
+sarvam,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,"मेरा एरिया का नाम कद्दू गोंदन अली है, केजी अली बोलते हैं लोग।",1196.6491006314754,,0.9090909090909091,False,True,81.25,False,True,True,partial_ratio_nospace
+sarvam,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,सर मेरा नाम सानका है जयनगर फोर्थ ब्लॉक से बात कर रही हूँ,1152.3152999579906,,0.7857142857142857,True,True,100.0,True,True,True,partial_ratio
+sarvam,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,बी टी एम लेआउट में फ्लैट देखना है क्या आप फ्री हैं,1137.6817002892494,,1.0,False,False,60.0,True,True,True,partial_ratio
+sarvam,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,हाँ हाँ के आर पुरम रेलवे स्टेशन के पास वहाँ रुको,1144.926500506699,,0.9,False,True,87.5,True,True,True,partial_ratio
+sarvam,14_bellandur_phone_english,Bellandur,phone,english,I am currently in Bellandur. Can the delivery come here by 6?,1260.2506997063756,,0.08333333333333333,True,True,100.0,True,True,True,partial_ratio
+sarvam,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,मैडम मैं हिसारागट्टा से हूँ गाँव की तरफ़,1165.22999946028,,0.875,False,True,83.33333333333334,True,True,True,partial_ratio
+sarvam,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,ನಾನು ಯಲಂಕಾ ಡೆಲ್ಲಿ ಇದ್ದೇನೆ ಏರ್ಪೋರ್ಟ್ ಹತ್ತಿರ,1188.8040993362665,,1.2,False,False,55.55555555555556,False,True,True,partial_ratio
+sarvam,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बता बना शांखरी से मैजेस्टिक कितना किलोमीटर है,1194.8033003136516,,0.6666666666666666,False,False,75.0,False,True,True,partial_ratio_nospace
+sarvam,18_majestic_whisper_hindi,Majestic,whisper,hindi,मैजेस्टिक बस के अंदर खड़ा हूँ मिल जाओगे,1194.215800613165,,0.8888888888888888,False,True,87.5,True,True,True,partial_ratio
+sarvam,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,राजा राजेश्वरी नगर में इंटरव्यू है एड्रेस भेज रहा हूँ अभी,1087.6427004113793,,0.8888888888888888,False,True,86.48648648648648,False,True,True,partial_ratio_nospace
+sarvam,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,"थल्लगटपुरा साइड, नाइस रोड के पास, समझा?",1125.2944003790617,,0.8571428571428571,False,True,89.65517241379311,True,True,True,partial_ratio
+whisper,01_koramangala_quiet_hinglish,Koramangala,quiet,hinglish,"हाँ बईया, गोर मंगला में रहती हूँ, फिफ्ट लॉक में",7311.144867000053,,1.1111111111111112,False,True,81.81818181818181,True,True,True,partial_ratio
+whisper,02_indiranagar_quiet_hindi,Indiranagar,quiet,hindi,"मेरा घर इंद्रानगर में है, मेट्रो स्टेशन के पास",3273.5599029999776,,0.5555555555555556,False,True,81.81818181818181,False,True,True,partial_ratio
+whisper,03_hsrlayout_quiet_english,HSR Layout,quiet,english,"Yes, so I stay in HSR layout sector 2",1541.3324710000325,,0.1111111111111111,True,True,100.0,True,True,True,partial_ratio
+whisper,04_hebbal_quiet_hinglish,Hebbal,quiet,hinglish,जॉब के लिए हिबाल से आना पड़ेगा ट्राफिक कैसा है?,3390.8114309999746,,0.5,False,False,66.66666666666667,True,True,True,partial_ratio
+whisper,05_byatarayanapura_quiet_hindi,Byatarayanapura,quiet,hindi,"सर, मेरा अड्रेस ब्याता रहना बुरा है, पास में बस्टांड है।",4125.791692000007,,0.9,False,True,86.66666666666667,True,True,True,partial_ratio_nospace
+whisper,06_whitefield_traffic_english,Whitefield,traffic,english,I work in Whitefield near the IPTL main road.,1990.1259069999924,,0.1111111111111111,True,True,100.0,True,True,True,partial_ratio
+whisper,07_marathahalli_traffic_hinglish,Marathahalli,traffic,hinglish,हाँ मारा ठली ब्रिज के नीचे उतर जाना वहाँ से आटो मिल जाएगा,5515.510041000084,,0.9166666666666666,False,False,78.26086956521739,True,True,True,partial_ratio_nospace
+whisper,08_electroniccity_traffic_hindi,Electronic City,traffic,hindi,कि मैं एलेक्ट्रोनिक सिटी फेज वन में रहती हूं और इन पोसिस के पीछे है कि अ,4334.68557499998,,1.4545454545454546,False,False,73.33333333333334,False,True,True,partial_ratio
+whisper,09_silkboard_traffic_hinglish,Silk Board,traffic,hinglish,"गुज़ो नंडा में ख्वोनेथी sdn mentea प्रदेक्शन कावल मिक्केशा और जहां लूप में चारकान शमित होंगे‍‍,। सुंपझ एक घ्चारणी च्� spatial फोर्ट्स फॉट्यू सिजनल मनोष्या के 30 मिनट से छड़ेंदे, यह इस Our Life तौरे का रिंग मिक्क। 20 minutes",53224.17310000003,,3.5454545454545454,False,False,50.0,False,True,True,partial_ratio
+whisper,10_kadugondanahalli_traffic_hindi,Kadugondanahalli,traffic,hindi,कि मेरा एरिया का नाम कद्दू गंधन अलिया केजी हली बोलते हैं लोग अ,4467.3272730000235,,1.0909090909090908,False,False,75.0,False,True,True,partial_ratio_nospace
+whisper,11_jayanagar_phone_hinglish,Jayanagar,phone,hinglish,सर मेरा नाम सानका है जयनागर फोटोब्लॉक से बात कर रहे हूँ,4035.185278999961,,0.7857142857142857,True,True,100.0,True,True,True,partial_ratio
+whisper,12_btmlayout_phone_hindi,BTM Layout,phone,hindi,बीटियम लेयाउट में फ्लाट देखना है क्या आप फ्री हैं?,3548.428446999992,,0.8181818181818182,False,False,60.0,True,True,True,partial_ratio
+whisper,13_krpuram_phone_hinglish,KR Puram,phone,hinglish,हाँ हाँ के यारपुरम रिल्वी स्टेशन के पास वहाँ रुको,3658.8023009999233,,0.8,False,True,85.71428571428572,True,True,True,partial_ratio_nospace
+whisper,14_bellandur_phone_english,Bellandur,phone,english,I am currently in Belindur. Can the delivery come here by 6?,2062.3943079999663,,0.16666666666666666,False,False,77.77777777777779,True,True,True,partial_ratio
+whisper,15_hesaraghatta_phone_hindi,Hesaraghatta,phone,hindi,माडम मैं हैसारा गट्टा से हूँ गाउ की तराफ,3476.3966630000596,,0.875,False,True,83.33333333333334,True,True,True,partial_ratio_nospace
+whisper,16_yelahanka_whisper_kannada,Yelahanka,whisper,kannada,ನಾನು ಎಲಂಕಾ ಡಲಿ ಇದ್ದೆನೆ ಎರ್ಪೋಟ್ ಹತ್ತಿರಾ.,4034.5927350000466,,1.6,False,False,55.55555555555556,False,True,True,partial_ratio
+whisper,17_banashankari_rushed_hinglish,Banashankari,rushed,hinglish,यार जल्दी बता बना शंकरी से मैचर स्टिक कितना किलोमेटर है?,3686.6969149999704,,0.7777777777777778,False,False,75.0,False,True,True,partial_ratio
+whisper,18_majestic_whisper_hindi,Majestic,whisper,hindi,"मैं जिस्टिक पस के अंदर खड़ा हूँ, मिल जाओगे।",4272.0121349999545,,0.8888888888888888,False,False,62.5,True,True,True,partial_ratio
+whisper,19_rajarajeshwarinagar_rushed_hindi,Rajarajeshwarinagar,rushed,hindi,राजा राजेश्वरी नगर में इंटरव्यू है आड्रेस भाई ज़िवाओं अबे,4600.433552000027,,1.1111111111111112,False,True,86.48648648648648,False,True,True,partial_ratio_nospace
+whisper,20_thalaghattapura_whisper_kannada,Thalaghattapura,whisper,kannada,धल्ल गटपूर साइड नाईस रोड के पास समझा?,3091.6464590000032,,1.0,False,True,82.75862068965517,True,True,True,partial_ratio_nospace

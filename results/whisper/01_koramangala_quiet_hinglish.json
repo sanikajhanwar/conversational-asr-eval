@@ -1,0 +1,20 @@
+{
+  "clip_id": "01_koramangala_quiet_hinglish",
+  "filename": "01_koramangala_quiet_hinglish.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "हाँ बईया, गोर मंगला में रहती हूँ, फिफ्ट लॉक में",
+  "language_detected": "hi",
+  "latency_total_ms": 7311.144867000053,
+  "raw_response": {
+    "text": " हाँ बईया, गोर मंगला में रहती हूँ, फिफ्ट लॉक में",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 4.7,
+        "text": " हाँ बईया, गोर मंगला में रहती हूँ, फिफ्ट लॉक में"
+      }
+    ]
+  }
+}

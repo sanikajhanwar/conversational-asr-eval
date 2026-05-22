@@ -23,7 +23,9 @@ from tqdm import tqdm
 from src.data_loader import Clip, ensure_results_dir, load_clips, RESULTS_DIR
 from src.metrics import score_clip
 from src.models import TranscriptionResult
-from src.models import deepgram_runner, elevenlabs_runner, sarvam_runner, whisper_runner
+from src.models import (
+    deepgram_runner, elevenlabs_runner, gemini_runner, sarvam_runner, whisper_runner,
+)
 
 # (name, transcribe_fn). Order matters only for display.
 ALL_MODELS = {
@@ -31,6 +33,7 @@ ALL_MODELS = {
     "whisper":    whisper_runner.transcribe,
     "sarvam":     sarvam_runner.transcribe,
     "elevenlabs": elevenlabs_runner.transcribe,
+    "gemini":     gemini_runner.transcribe,
 }
 
 

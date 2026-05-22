@@ -1,0 +1,20 @@
+{
+  "clip_id": "05_byatarayanapura_quiet_hindi",
+  "filename": "05_byatarayanapura_quiet_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "सर, मेरा अड्रेस ब्याता रहना बुरा है, पास में बस्टांड है।",
+  "language_detected": "hi",
+  "latency_total_ms": 4125.791692000007,
+  "raw_response": {
+    "text": " सर, मेरा अड्रेस ब्याता रहना बुरा है, पास में बस्टांड है।",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 7.0,
+        "text": " सर, मेरा अड्रेस ब्याता रहना बुरा है, पास में बस्टांड है।"
+      }
+    ]
+  }
+}

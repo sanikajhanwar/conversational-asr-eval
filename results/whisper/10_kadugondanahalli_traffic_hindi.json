@@ -1,0 +1,20 @@
+{
+  "clip_id": "10_kadugondanahalli_traffic_hindi",
+  "filename": "10_kadugondanahalli_traffic_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "कि मेरा एरिया का नाम कद्दू गंधन अलिया केजी हली बोलते हैं लोग अ",
+  "language_detected": "hi",
+  "latency_total_ms": 4467.3272730000235,
+  "raw_response": {
+    "text": " कि मेरा एरिया का नाम कद्दू गंधन अलिया केजी हली बोलते हैं लोग अ",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 10.1,
+        "text": " कि मेरा एरिया का नाम कद्दू गंधन अलिया केजी हली बोलते हैं लोग अ"
+      }
+    ]
+  }
+}

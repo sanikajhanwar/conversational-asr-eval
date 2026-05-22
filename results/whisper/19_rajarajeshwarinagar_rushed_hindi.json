@@ -1,0 +1,20 @@
+{
+  "clip_id": "19_rajarajeshwarinagar_rushed_hindi",
+  "filename": "19_rajarajeshwarinagar_rushed_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "राजा राजेश्वरी नगर में इंटरव्यू है आड्रेस भाई ज़िवाओं अबे",
+  "language_detected": "hi",
+  "latency_total_ms": 4600.433552000027,
+  "raw_response": {
+    "text": " राजा राजेश्वरी नगर में इंटरव्यू है आड्रेस भाई ज़िवाओं अबे",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 4.38,
+        "text": " राजा राजेश्वरी नगर में इंटरव्यू है आड्रेस भाई ज़िवाओं अबे"
+      }
+    ]
+  }
+}

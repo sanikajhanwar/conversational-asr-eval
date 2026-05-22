@@ -1,0 +1,18 @@
+{
+  "clip_id": "16_yelahanka_whisper_kannada",
+  "filename": "16_yelahanka_whisper_kannada.m4a",
+  "model": "gemini",
+  "transcript": "ನಾನು ಯಲಂಕ ಡಲ್ಲಿ ಇದ್ದೇನೆ ಏರ್ಪೋರ್ಟ್ ಹತ್ತಿರ",
+  "language_detected": null,
+  "latency_total_ms": 7392.387400381267,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "ನಾನು ಯಲಂಕ ಡಲ್ಲಿ ಇದ್ದೇನೆ ಏರ್ಪೋರ್ಟ್ ಹತ್ತಿರ",
+    "model": "gemini-2.5-flash-lite",
+    "usage": {
+      "input_tokens": 257,
+      "output_tokens": 17
+    }
+  }
+}

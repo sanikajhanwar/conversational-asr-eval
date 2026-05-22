@@ -1,0 +1,18 @@
+{
+  "clip_id": "10_kadugondanahalli_traffic_hindi",
+  "filename": "10_kadugondanahalli_traffic_hindi.m4a",
+  "model": "gemini",
+  "transcript": "मेरा एरिया का नाम कद्दू गोंदा नल्ली है। के जी हल्ली बोलते हैं लोग।",
+  "language_detected": null,
+  "latency_total_ms": 18068.770800717175,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "मेरा एरिया का नाम कद्दू गोंदा नल्ली है। के जी हल्ली बोलते हैं लोग।",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 407,
+      "output_tokens": 21
+    }
+  }
+}

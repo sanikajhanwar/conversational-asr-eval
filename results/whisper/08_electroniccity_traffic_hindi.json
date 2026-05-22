@@ -1,0 +1,26 @@
+{
+  "clip_id": "08_electroniccity_traffic_hindi",
+  "filename": "08_electroniccity_traffic_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "कि मैं एलेक्ट्रोनिक सिटी फेज वन में रहती हूं और इन पोसिस के पीछे है कि अ",
+  "language_detected": "hi",
+  "latency_total_ms": 4334.68557499998,
+  "raw_response": {
+    "text": " कि मैं एलेक्ट्रोनिक सिटी फेज वन में रहती हूं और इन पोसिस के पीछे है कि अ",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 7.8,
+        "text": " कि मैं एलेक्ट्रोनिक सिटी फेज वन में रहती हूं और इन पोसिस के पीछे है"
+      },
+      {
+        "id": 1,
+        "start": 10.44,
+        "end": 10.56,
+        "text": " कि अ"
+      }
+    ]
+  }
+}

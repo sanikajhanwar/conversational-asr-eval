@@ -1,0 +1,20 @@
+{
+  "clip_id": "15_hesaraghatta_phone_hindi",
+  "filename": "15_hesaraghatta_phone_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "माडम मैं हैसारा गट्टा से हूँ गाउ की तराफ",
+  "language_detected": "hi",
+  "latency_total_ms": 3476.3966630000596,
+  "raw_response": {
+    "text": " माडम मैं हैसारा गट्टा से हूँ गाउ की तराफ",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 4.98,
+        "text": " माडम मैं हैसारा गट्टा से हूँ गाउ की तराफ"
+      }
+    ]
+  }
+}

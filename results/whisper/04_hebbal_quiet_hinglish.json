@@ -1,0 +1,20 @@
+{
+  "clip_id": "04_hebbal_quiet_hinglish",
+  "filename": "04_hebbal_quiet_hinglish.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "जॉब के लिए हिबाल से आना पड़ेगा ट्राफिक कैसा है?",
+  "language_detected": "hi",
+  "latency_total_ms": 3390.8114309999746,
+  "raw_response": {
+    "text": " जॉब के लिए हिबाल से आना पड़ेगा ट्राफिक कैसा है?",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 3.68,
+        "text": " जॉब के लिए हिबाल से आना पड़ेगा ट्राफिक कैसा है?"
+      }
+    ]
+  }
+}

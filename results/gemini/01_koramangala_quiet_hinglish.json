@@ -1,0 +1,18 @@
+{
+  "clip_id": "01_koramangala_quiet_hinglish",
+  "filename": "01_koramangala_quiet_hinglish.m4a",
+  "model": "gemini",
+  "transcript": "हाँ भैया Koramangala में रहती हूं fifth block में",
+  "language_detected": null,
+  "latency_total_ms": 7869.640399701893,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "हाँ भैया Koramangala में रहती हूं fifth block में",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 233,
+      "output_tokens": 12
+    }
+  }
+}

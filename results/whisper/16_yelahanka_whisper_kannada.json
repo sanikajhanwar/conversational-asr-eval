@@ -1,0 +1,20 @@
+{
+  "clip_id": "16_yelahanka_whisper_kannada",
+  "filename": "16_yelahanka_whisper_kannada.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "ನಾನು ಎಲಂಕಾ ಡಲಿ ಇದ್ದೆನೆ ಎರ್ಪೋಟ್ ಹತ್ತಿರಾ.",
+  "language_detected": "kn",
+  "latency_total_ms": 4034.5927350000466,
+  "raw_response": {
+    "text": " ನಾನು ಎಲಂಕಾ ಡಲಿ ಇದ್ದೆನೆ ಎರ್ಪೋಟ್ ಹತ್ತಿರಾ.",
+    "language": "kn",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 4.5600000000000005,
+        "text": " ನಾನು ಎಲಂಕಾ ಡಲಿ ಇದ್ದೆನೆ ಎರ್ಪೋಟ್ ಹತ್ತಿರಾ."
+      }
+    ]
+  }
+}

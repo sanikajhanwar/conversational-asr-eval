@@ -1,0 +1,18 @@
+{
+  "clip_id": "20_thalaghattapura_whisper_kannada",
+  "filename": "20_thalaghattapura_whisper_kannada.m4a",
+  "model": "gemini",
+  "transcript": "टल्लागटा पूरा साइड नाइस रोड के पास समझा",
+  "language_detected": null,
+  "latency_total_ms": 8508.430200628936,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "टल्लागटा पूरा साइड नाइस रोड के पास समझा",
+    "model": "gemini-2.5-flash-lite",
+    "usage": {
+      "input_tokens": 263,
+      "output_tokens": 12
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "clip_id": "08_electroniccity_traffic_hindi",
+  "filename": "08_electroniccity_traffic_hindi.m4a",
+  "model": "gemini",
+  "transcript": "मैं इलेक्ट्रॉनिक सिटी फेज़ वन में रहती हूं Infosys के पीछे।",
+  "language_detected": null,
+  "latency_total_ms": 5728.7363996729255,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "मैं इलेक्ट्रॉनिक सिटी फेज़ वन में रहती हूं Infosys के पीछे।",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 421,
+      "output_tokens": 14
+    }
+  }
+}

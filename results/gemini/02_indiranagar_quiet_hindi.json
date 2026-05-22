@@ -1,0 +1,18 @@
+{
+  "clip_id": "02_indiranagar_quiet_hindi",
+  "filename": "02_indiranagar_quiet_hindi.m4a",
+  "model": "gemini",
+  "transcript": "मेरा घर इंदिरा नगर में है मेट्रो स्टेशन के पास",
+  "language_detected": null,
+  "latency_total_ms": 5916.28469992429,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "मेरा घर इंदिरा नगर में है मेट्रो स्टेशन के पास",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 253,
+      "output_tokens": 10
+    }
+  }
+}

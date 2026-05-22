@@ -1,0 +1,18 @@
+{
+  "clip_id": "06_whitefield_traffic_english",
+  "filename": "06_whitefield_traffic_english.m4a",
+  "model": "gemini",
+  "transcript": "I work in Whitefield near the IPTL main road.",
+  "language_detected": null,
+  "latency_total_ms": 7721.98829986155,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "I work in Whitefield near the IPTL main road.",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 381,
+      "output_tokens": 12
+    }
+  }
+}

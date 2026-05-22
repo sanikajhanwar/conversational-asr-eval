@@ -1,0 +1,20 @@
+{
+  "clip_id": "18_majestic_whisper_hindi",
+  "filename": "18_majestic_whisper_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "मैं जिस्टिक पस के अंदर खड़ा हूँ, मिल जाओगे।",
+  "language_detected": "hi",
+  "latency_total_ms": 4272.0121349999545,
+  "raw_response": {
+    "text": " मैं जिस्टिक पस के अंदर खड़ा हूँ, मिल जाओगे।",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 4.88,
+        "text": " मैं जिस्टिक पस के अंदर खड़ा हूँ, मिल जाओगे।"
+      }
+    ]
+  }
+}

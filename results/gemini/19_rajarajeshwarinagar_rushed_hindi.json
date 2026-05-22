@@ -1,0 +1,18 @@
+{
+  "clip_id": "19_rajarajeshwarinagar_rushed_hindi",
+  "filename": "19_rajarajeshwarinagar_rushed_hindi.m4a",
+  "model": "gemini",
+  "transcript": "00:00 राजा राजेश्वरी नगर में इंटरव्यू है 00:01 एड्रेस भेज रहा हूँ अभी 00:05",
+  "language_detected": null,
+  "latency_total_ms": 12724.990000016987,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "00:00 राजा राजेश्वरी नगर में इंटरव्यू है 00:01 एड्रेस भेज रहा हूँ अभी 00:05",
+    "model": "gemini-2.5-flash-lite",
+    "usage": {
+      "input_tokens": 267,
+      "output_tokens": 30
+    }
+  }
+}

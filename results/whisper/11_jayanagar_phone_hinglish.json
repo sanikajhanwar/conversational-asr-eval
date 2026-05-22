@@ -1,0 +1,20 @@
+{
+  "clip_id": "11_jayanagar_phone_hinglish",
+  "filename": "11_jayanagar_phone_hinglish.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "सर मेरा नाम सानका है जयनागर फोटोब्लॉक से बात कर रहे हूँ",
+  "language_detected": "hi",
+  "latency_total_ms": 4035.185278999961,
+  "raw_response": {
+    "text": " सर मेरा नाम सानका है जयनागर फोटोब्लॉक से बात कर रहे हूँ",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 6.32,
+        "text": " सर मेरा नाम सानका है जयनागर फोटोब्लॉक से बात कर रहे हूँ"
+      }
+    ]
+  }
+}

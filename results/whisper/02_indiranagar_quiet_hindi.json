@@ -1,0 +1,20 @@
+{
+  "clip_id": "02_indiranagar_quiet_hindi",
+  "filename": "02_indiranagar_quiet_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "मेरा घर इंद्रानगर में है, मेट्रो स्टेशन के पास",
+  "language_detected": "hi",
+  "latency_total_ms": 3273.5599029999776,
+  "raw_response": {
+    "text": " मेरा घर इंद्रानगर में है, मेट्रो स्टेशन के पास",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 4.32,
+        "text": " मेरा घर इंद्रानगर में है, मेट्रो स्टेशन के पास"
+      }
+    ]
+  }
+}

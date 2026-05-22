@@ -1,0 +1,18 @@
+{
+  "clip_id": "05_byatarayanapura_quiet_hindi",
+  "filename": "05_byatarayanapura_quiet_hindi.m4a",
+  "model": "gemini",
+  "transcript": "सर मेरा एड्रेस ब्यातरायनपुरा है। पास में बस स्टैंड है।",
+  "language_detected": null,
+  "latency_total_ms": 10047.163999639452,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "सर मेरा एड्रेस ब्यातरायनपुरा है। पास में बस स्टैंड है।",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 347,
+      "output_tokens": 17
+    }
+  }
+}

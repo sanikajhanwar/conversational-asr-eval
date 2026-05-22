@@ -1,0 +1,18 @@
+{
+  "clip_id": "03_hsrlayout_quiet_english",
+  "filename": "03_hsrlayout_quiet_english.m4a",
+  "model": "gemini",
+  "transcript": "Yes, so I'll stay in HSR Layout Sector 2.",
+  "language_detected": null,
+  "latency_total_ms": 5639.051999896765,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "Yes, so I'll stay in HSR Layout Sector 2.",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 246,
+      "output_tokens": 15
+    }
+  }
+}

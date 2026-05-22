@@ -1,0 +1,20 @@
+{
+  "clip_id": "07_marathahalli_traffic_hinglish",
+  "filename": "07_marathahalli_traffic_hinglish.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "हाँ मारा ठली ब्रिज के नीचे उतर जाना वहाँ से आटो मिल जाएगा",
+  "language_detected": "hi",
+  "latency_total_ms": 5515.510041000084,
+  "raw_response": {
+    "text": " हाँ मारा ठली ब्रिज के नीचे उतर जाना वहाँ से आटो मिल जाएगा",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 6.96,
+        "text": " हाँ मारा ठली ब्रिज के नीचे उतर जाना वहाँ से आटो मिल जाएगा"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "clip_id": "13_krpuram_phone_hinglish",
+  "filename": "13_krpuram_phone_hinglish.m4a",
+  "model": "gemini",
+  "transcript": "हा हा के आर पुरम रेलवे स्टेशन के पास वहां रुको।",
+  "language_detected": null,
+  "latency_total_ms": 8641.155799850821,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "हा हा के आर पुरम रेलवे स्टेशन के पास वहां रुको।",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 255,
+      "output_tokens": 14
+    }
+  }
+}

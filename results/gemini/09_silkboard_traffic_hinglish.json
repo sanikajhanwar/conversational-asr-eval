@@ -1,0 +1,18 @@
+{
+  "clip_id": "09_silkboard_traffic_hinglish",
+  "filename": "09_silkboard_traffic_hinglish.m4a",
+  "model": "gemini",
+  "transcript": "Silkwood signal पे फंसा हूं यार 20 minutes से।",
+  "language_detected": null,
+  "latency_total_ms": 7439.543600194156,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "Silkwood signal पे फंसा हूं यार 20 minutes से।",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 356,
+      "output_tokens": 14
+    }
+  }
+}

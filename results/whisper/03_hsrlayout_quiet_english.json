@@ -1,0 +1,20 @@
+{
+  "clip_id": "03_hsrlayout_quiet_english",
+  "filename": "03_hsrlayout_quiet_english.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "Yes, so I stay in HSR layout sector 2",
+  "language_detected": "en",
+  "latency_total_ms": 1541.3324710000325,
+  "raw_response": {
+    "text": " Yes, so I stay in HSR layout sector 2",
+    "language": "en",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 5.08,
+        "text": " Yes, so I stay in HSR layout sector 2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "clip_id": "18_majestic_whisper_hindi",
+  "filename": "18_majestic_whisper_hindi.m4a",
+  "model": "gemini",
+  "transcript": "मैजेस्टिक बस के अंदर खड़ा हूँ मिल जाओगे",
+  "language_detected": null,
+  "latency_total_ms": 9075.386099517345,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "मैजेस्टिक बस के अंदर खड़ा हूँ मिल जाओगे",
+    "model": "gemini-2.5-flash-lite",
+    "usage": {
+      "input_tokens": 239,
+      "output_tokens": 11
+    }
+  }
+}

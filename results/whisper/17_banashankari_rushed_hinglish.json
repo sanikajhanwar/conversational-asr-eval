@@ -1,0 +1,20 @@
+{
+  "clip_id": "17_banashankari_rushed_hinglish",
+  "filename": "17_banashankari_rushed_hinglish.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "यार जल्दी बता बना शंकरी से मैचर स्टिक कितना किलोमेटर है?",
+  "language_detected": "hi",
+  "latency_total_ms": 3686.6969149999704,
+  "raw_response": {
+    "text": " यार जल्दी बता बना शंकरी से मैचर स्टिक कितना किलोमेटर है?",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 4.54,
+        "text": " यार जल्दी बता बना शंकरी से मैचर स्टिक कितना किलोमेटर है?"
+      }
+    ]
+  }
+}

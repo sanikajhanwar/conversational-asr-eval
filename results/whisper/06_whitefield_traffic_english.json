@@ -1,0 +1,20 @@
+{
+  "clip_id": "06_whitefield_traffic_english",
+  "filename": "06_whitefield_traffic_english.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "I work in Whitefield near the IPTL main road.",
+  "language_detected": "en",
+  "latency_total_ms": 1990.1259069999924,
+  "raw_response": {
+    "text": " I work in Whitefield near the IPTL main road.",
+    "language": "en",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 9.3,
+        "text": " I work in Whitefield near the IPTL main road."
+      }
+    ]
+  }
+}

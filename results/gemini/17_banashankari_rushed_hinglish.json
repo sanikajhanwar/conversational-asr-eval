@@ -1,0 +1,18 @@
+{
+  "clip_id": "17_banashankari_rushed_hinglish",
+  "filename": "17_banashankari_rushed_hinglish.m4a",
+  "model": "gemini",
+  "transcript": "यार जल्दी बता बना शंखरी से Majestic कितना किलोमीटर है?",
+  "language_detected": null,
+  "latency_total_ms": 5927.8702000156045,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "यार जल्दी बता बना शंखरी से Majestic कितना किलोमीटर है?",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 252,
+      "output_tokens": 14
+    }
+  }
+}

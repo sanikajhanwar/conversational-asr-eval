@@ -1,0 +1,18 @@
+{
+  "clip_id": "11_jayanagar_phone_hinglish",
+  "filename": "11_jayanagar_phone_hinglish.m4a",
+  "model": "gemini",
+  "transcript": "सर मेरा नाम सानिका है। जयनगर फोर्थ ब्लॉक से बात कर रही हूं।",
+  "language_detected": null,
+  "latency_total_ms": 5245.664799585938,
+  "latency_first_byte_ms": null,
+  "error": null,
+  "raw_response": {
+    "text": "सर मेरा नाम सानिका है। जयनगर फोर्थ ब्लॉक से बात कर रही हूं।",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "input_tokens": 322,
+      "output_tokens": 19
+    }
+  }
+}

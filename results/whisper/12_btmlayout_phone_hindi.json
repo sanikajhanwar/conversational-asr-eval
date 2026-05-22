@@ -1,0 +1,20 @@
+{
+  "clip_id": "12_btmlayout_phone_hindi",
+  "filename": "12_btmlayout_phone_hindi.m4a",
+  "model": "whisper-large-v3",
+  "transcript": "बीटियम लेयाउट में फ्लाट देखना है क्या आप फ्री हैं?",
+  "language_detected": "hi",
+  "latency_total_ms": 3548.428446999992,
+  "raw_response": {
+    "text": " बीटियम लेयाउट में फ्लाट देखना है क्या आप फ्री हैं?",
+    "language": "hi",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 3.22,
+        "text": " बीटियम लेयाउट में फ्लाट देखना है क्या आप फ्री हैं?"
+      }
+    ]
+  }
+}
